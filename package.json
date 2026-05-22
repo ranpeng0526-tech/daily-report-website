@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "python3 scripts/build_static_site.py"
+  }
+}

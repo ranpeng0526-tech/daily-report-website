@@ -1,0 +1,260 @@
+:root {
+  color-scheme: light;
+  --ink: #171717;
+  --muted: #686868;
+  --line: #d7d2c8;
+  --paper: #f7f4ec;
+  --panel: #fffdf8;
+  --accent: #0f6b5c;
+  --accent-strong: #09483e;
+  --danger: #b33a2f;
+  --gold: #b88a2b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    linear-gradient(90deg, rgba(23, 23, 23, 0.04) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(23, 23, 23, 0.035) 1px, transparent 1px),
+    var(--paper);
+  background-size: 44px 44px;
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", "Noto Serif SC", serif;
+}
+
+.shell {
+  width: min(1180px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 40px 0 56px;
+}
+
+.hero {
+  min-height: 270px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 32px;
+  align-items: end;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 28px;
+}
+
+.eyebrow {
+  margin: 0 0 10px;
+  color: var(--accent);
+  font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  max-width: 780px;
+  margin-bottom: 18px;
+  font-size: clamp(3.2rem, 9vw, 7.8rem);
+  line-height: 0.92;
+  font-weight: 700;
+}
+
+.subtitle,
+.muted {
+  color: var(--muted);
+}
+
+.status-panel {
+  min-height: 170px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: var(--ink);
+  color: var(--panel);
+  padding: 22px;
+  border: 1px solid var(--ink);
+}
+
+.status-label {
+  color: #d9c996;
+  font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+  font-size: 0.76rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.status-panel strong {
+  font-size: 1.45rem;
+  line-height: 1.25;
+}
+
+.overview-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-bottom: 1px solid var(--line);
+}
+
+.overview-grid article {
+  min-height: 132px;
+  padding: 24px 22px;
+  border-right: 1px solid var(--line);
+}
+
+.overview-grid article:last-child {
+  border-right: 0;
+}
+
+.overview-grid span {
+  display: block;
+  color: var(--muted);
+  font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.overview-grid strong {
+  display: block;
+  margin-top: 18px;
+  font-size: clamp(1.7rem, 4vw, 3.4rem);
+  line-height: 1;
+}
+
+.section {
+  padding: 42px 0 0;
+}
+
+.section-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  align-items: end;
+  margin-bottom: 18px;
+}
+
+h2 {
+  margin-bottom: 0;
+  font-size: clamp(1.8rem, 4vw, 3.6rem);
+}
+
+.table-wrap {
+  overflow-x: auto;
+  background: var(--panel);
+  border: 1px solid var(--line);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 820px;
+}
+
+th,
+td {
+  padding: 18px 16px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+}
+
+th {
+  color: var(--muted);
+  font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+}
+
+td span {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.positive {
+  color: var(--accent-strong);
+  font-weight: 700;
+}
+
+.negative {
+  color: var(--danger);
+  font-weight: 700;
+}
+
+.news-list {
+  display: grid;
+  gap: 14px;
+}
+
+.news-card {
+  display: grid;
+  grid-template-columns: 72px minmax(0, 1fr);
+  gap: 20px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  padding: 22px;
+}
+
+.rank {
+  color: var(--gold);
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.news-card h3 {
+  margin-bottom: 10px;
+  font-size: clamp(1.25rem, 2vw, 1.8rem);
+}
+
+.news-card p {
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.impact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-family: "Avenir Next", "Helvetica Neue", sans-serif;
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.impact span {
+  border: 1px solid var(--line);
+  padding: 7px 10px;
+  background: #faf6e8;
+}
+
+@media (max-width: 760px) {
+  .shell {
+    width: min(100% - 24px, 1180px);
+    padding-top: 24px;
+  }
+
+  .hero,
+  .overview-grid,
+  .news-card {
+    grid-template-columns: 1fr;
+  }
+
+  .status-panel {
+    min-height: 130px;
+  }
+
+  .overview-grid article {
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .section-heading {
+    display: block;
+  }
+}

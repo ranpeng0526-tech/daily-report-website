@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>每日美股市场晨报</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">US Market Briefing</p>
+          <h1>每日美股市场晨报</h1>
+          <p class="subtitle" id="report-date">正在加载最新报告</p>
+        </div>
+        <div class="status-panel">
+          <span class="status-label">Market Tone</span>
+          <strong id="market-tone">--</strong>
+        </div>
+      </section>
+
+      <section class="overview-grid" aria-label="市场概览">
+        <article>
+          <span>上涨指数</span>
+          <strong id="advancers">--</strong>
+        </article>
+        <article>
+          <span>下跌指数</span>
+          <strong id="decliners">--</strong>
+        </article>
+        <article>
+          <span>数据源</span>
+          <strong id="sources">--</strong>
+        </article>
+      </section>
+
+      <section class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Index Tape</p>
+          <h2>三大指数行情</h2>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>指数</th>
+                <th>收盘价</th>
+                <th>日涨跌</th>
+                <th>5日涨跌</th>
+                <th>月初至今</th>
+                <th>区间</th>
+              </tr>
+            </thead>
+            <tbody id="indices"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Top Stories</p>
+          <h2>今日三大要闻</h2>
+        </div>
+        <div class="news-list" id="news"></div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

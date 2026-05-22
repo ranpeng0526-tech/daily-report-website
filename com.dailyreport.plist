@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.dailyreport</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <!-- 修改为你的实际路径 -->
+        <string>/Users/ranpeng/Desktop/claude-projects/Daily-report-project/venv/bin/python</string>
+        <string>/Users/ranpeng/Desktop/claude-projects/Daily-report-project/main.py</string>
+    </array>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin</string>
+    </dict>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/ranpeng/Desktop/claude-projects/Daily-report-project</string>
+
+    <!-- 北京时间 19:00（对应美东夏令时 7:00 AM） -->
+    <!-- 冬令时请改为 20:00 -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>19</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+        <key>Weekday</key>
+        <integer>1</integer>
+    </dict>
+    <dict>
+        <key>Hour</key>
+        <integer>19</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+        <key>Weekday</key>
+        <integer>2</integer>
+    </dict>
+    <dict>
+        <key>Hour</key>
+        <integer>19</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+        <key>Weekday</key>
+        <integer>3</integer>
+    </dict>
+    <dict>
+        <key>Hour</key>
+        <integer>19</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+        <key>Weekday</key>
+        <integer>4</integer>
+    </dict>
+    <dict>
+        <key>Hour</key>
+        <integer>19</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+        <key>Weekday</key>
+        <integer>5</integer>
+    </dict>
+
+    <!-- 日志输出 -->
+    <key>StandardOutPath</key>
+    <string>/Users/ranpeng/Desktop/claude-projects/Daily-report-project/launchd_stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/ranpeng/Desktop/claude-projects/Daily-report-project/launchd_stderr.log</string>
+</dict>
+</plist>

@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+output/*.md
+output/.cache/
+.DS_Store
+*.log
+venv/
+.pytest_cache/
+dist/
+.vercel/

@@ -1,0 +1,53 @@
+# 每日美股市场晨报
+
+> **日期：{{ date }}**
+> **生成时间：{{ generated_at }}**
+
+## 今日结论
+
+美股三大指数中，**{{ market_overview.advancers }} 个上涨，{{ market_overview.decliners }} 个下跌**。{{ market_overview.sentiment }}
+
+---
+
+## 一、三大指数行情
+
+| 指数 | 开盘价 | 收盘价 | 最高 | 最低 | 涨跌幅 | 5日涨跌 | 月初至今 |
+|------|--------|--------|------|------|--------|---------|----------|
+{% for idx in indices %}
+{% if idx.error %}
+| {{ idx.name }} | - | - | - | - | ❌ {{ idx.error }} | - | - |
+{% else %}
+| {{ idx.name }} | {{ idx.open }} | {{ idx.close }} | {{ idx.high }} | {{ idx.low }} | {% if idx.change_pct >= 0 %}+{{ idx.change_pct }}%{% else %}{{ idx.change_pct }}%{% endif %} | {% if idx.change_5d >= 0 %}+{{ idx.change_5d }}%{% else %}{{ idx.change_5d }}%{% endif %} | {% if idx.change_mtd >= 0 %}+{{ idx.change_mtd }}%{% else %}{{ idx.change_mtd }}%{% endif %} |
+{% endif %}
+{% endfor %}
+
+---
+
+## 二、今日三大要闻
+
+{% for news in top_news %}
+
+### {{ loop.index }}. {{ news.title }}
+
+- **摘要**：{{ news.summary }}
+- **市场影响**：{{ news.impact }}
+- **原因**：{{ news.reason }}
+
+{% endfor %}
+
+---
+
+## 三、市场概览
+
+{{ market_overview.sentiment }}
+
+短线观察重点：
+
+- **日内方向**：三大指数上涨/下跌数量反映当日市场广度。
+- **5日涨跌**：用于观察短线趋势是否延续。
+- **月初至今**：用于判断本月累计风险偏好。
+
+---
+
+> 本报告由 AI 自动生成 | {{ date }}
+> 数据来源：Yahoo Finance / Finnhub
