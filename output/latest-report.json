@@ -1,66 +1,66 @@
 {
   "title": "每日美股市场晨报",
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T14:28:48",
+  "generated_at": "2026-05-23T06:16:03",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29150.13,
-      "close": 29357.27,
-      "high": 29463.49,
-      "low": 29040.04,
-      "change_pct": 0.2,
-      "change_5d": -0.75,
-      "change_mtd": 5.94,
-      "date": "2026-05-21",
+      "open": 29476.29,
+      "close": 29481.64,
+      "high": 29663.89,
+      "low": 29423.63,
+      "change_pct": 0.42,
+      "change_5d": 1.22,
+      "change_mtd": 6.39,
+      "date": "2026-05-22",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7410.78,
-      "close": 7445.72,
-      "high": 7465.96,
-      "low": 7389.48,
-      "change_pct": 0.17,
-      "change_5d": -0.74,
-      "change_mtd": 2.98,
-      "date": "2026-05-21",
+      "open": 7468.82,
+      "close": 7473.47,
+      "high": 7506.32,
+      "low": 7463.29,
+      "change_pct": 0.37,
+      "change_5d": 0.88,
+      "change_mtd": 3.37,
+      "date": "2026-05-22",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 49983.8,
-      "close": 50285.66,
-      "high": 50381.41,
-      "low": 49697.47,
-      "change_pct": 0.55,
-      "change_5d": 0.44,
-      "change_mtd": 1.59,
-      "date": "2026-05-21",
+      "open": 50434.65,
+      "close": 50579.7,
+      "high": 50830.24,
+      "low": 50434.65,
+      "change_pct": 0.58,
+      "change_5d": 2.13,
+      "change_mtd": 2.18,
+      "date": "2026-05-22",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Oura, smart ring maker, confidentially files for IPO",
-      "summary": "智能戒指制造商Oura已秘密提交IPO申请， wearable tech赛道再添新军",
-      "impact": "利好",
-      "reason": "知名科技公司IPO提振市场情绪，利好相关消费科技板块"
+      "title": "Surge in 'risk-free' treasury yields sends bond investors in search of better opportunities",
+      "summary": "Treasury yield surge shows bond market is not 'risk free' after all, but there's",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Traders think this legacy tech stock is the ultimate quantum play",
-      "summary": "某传统科技股因量子计算概念遭期权交易者爆买，成交量达日常15倍",
-      "impact": "利好",
-      "reason": "量子计算主题炒作升温，大量资金涌入相关个股"
+      "title": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
+      "summary": "SpaceX's IPO, expected on June 12, could mark the largest float in history.",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "How Walmart's gas price warning shapes our retail outlook — plus, Honeywell's quantum connection",
-      "summary": "沃尔玛对汽油价格发出预警，零售行业前景受关注",
-      "impact": "利空",
-      "reason": "油价预警暗示消费支出压力，零售板块承压"
+      "title": "Stocks continue surging to record highs. Here's how to hedge",
+      "summary": "The rally back to records has made buying protection more affordable.",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
