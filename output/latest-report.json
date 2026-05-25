@@ -1,7 +1,7 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-05-22",
-  "generated_at": "2026-05-23T06:16:03",
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T05:17:48",
   "indices": [
     {
       "name": "纳斯达克100",
@@ -45,20 +45,20 @@
   ],
   "top_news": [
     {
-      "title": "Surge in 'risk-free' treasury yields sends bond investors in search of better opportunities",
-      "summary": "Treasury yield surge shows bond market is not 'risk free' after all, but there's",
+      "title": "Oil swings with market focused on US-Iran peace prospects",
+      "summary": "The war and the curtailment in supplies have seen global stockpiles of crude oil",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
-      "summary": "SpaceX's IPO, expected on June 12, could mark the largest float in history.",
+      "title": "Bond yields, oil fall amid hopes for Iran deal; stocks up with Nvidia results ahead - Reuters",
+      "summary": "Bond yields, oil fall amid hopes for Iran deal; stocks up with Nvidia results ah",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Stocks continue surging to record highs. Here's how to hedge",
-      "summary": "The rally back to records has made buying protection more affordable.",
+      "title": "Oil prices slide after Trump says US-Iran negotiations in 'final stages' - Reuters",
+      "summary": "Oil prices slide after Trump says US-Iran negotiations in 'final stages'  Reuter",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
