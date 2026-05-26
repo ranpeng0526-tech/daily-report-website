@@ -1,7 +1,7 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-05-25",
-  "generated_at": "2026-05-25T05:17:48",
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T05:00:39",
   "indices": [
     {
       "name": "纳斯达克100",
@@ -51,14 +51,14 @@
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Bond yields, oil fall amid hopes for Iran deal; stocks up with Nvidia results ahead - Reuters",
-      "summary": "Bond yields, oil fall amid hopes for Iran deal; stocks up with Nvidia results ah",
+      "title": "Gold slips as US-Iran tensions lift oil, stoke inflation fears - Reuters",
+      "summary": "Gold slips as US-Iran tensions lift oil, stoke inflation fears  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil prices slide after Trump says US-Iran negotiations in 'final stages' - Reuters",
-      "summary": "Oil prices slide after Trump says US-Iran negotiations in 'final stages'  Reuter",
+      "title": "US-Iran deal optimism offers Indian rupee, bonds a breather - Reuters",
+      "summary": "US-Iran deal optimism offers Indian rupee, bonds a breather  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
