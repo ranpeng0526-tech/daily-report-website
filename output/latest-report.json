@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-05-26",
-  "generated_at": "2026-05-26T05:00:39",
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T05:12:26",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29476.29,
-      "close": 29481.64,
-      "high": 29663.89,
-      "low": 29423.63,
-      "change_pct": 0.42,
-      "change_5d": 1.22,
-      "change_mtd": 6.39,
-      "date": "2026-05-22",
+      "open": 29854.58,
+      "close": 30001.32,
+      "high": 30044.49,
+      "low": 29753.09,
+      "change_pct": 1.76,
+      "change_5d": 3.47,
+      "change_mtd": 8.27,
+      "date": "2026-05-26",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7468.82,
-      "close": 7473.47,
-      "high": 7506.32,
-      "low": 7463.29,
-      "change_pct": 0.37,
-      "change_5d": 0.88,
-      "change_mtd": 3.37,
-      "date": "2026-05-22",
+      "open": 7511.79,
+      "close": 7519.12,
+      "high": 7539.09,
+      "low": 7501.1,
+      "change_pct": 0.61,
+      "change_5d": 1.57,
+      "change_mtd": 4.0,
+      "date": "2026-05-26",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 50434.65,
-      "close": 50579.7,
-      "high": 50830.24,
-      "low": 50434.65,
-      "change_pct": 0.58,
-      "change_5d": 2.13,
-      "change_mtd": 2.18,
-      "date": "2026-05-22",
+      "open": 50686.15,
+      "close": 50461.68,
+      "high": 50785.68,
+      "low": 50356.64,
+      "change_pct": -0.23,
+      "change_5d": 1.56,
+      "change_mtd": 1.94,
+      "date": "2026-05-26",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Oil swings with market focused on US-Iran peace prospects",
-      "summary": "The war and the curtailment in supplies have seen global stockpiles of crude oil",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "summary": "Melius Research pushes Dell and Apple, and Amazon's custom AI chips are more com",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Gold slips as US-Iran tensions lift oil, stoke inflation fears - Reuters",
-      "summary": "Gold slips as US-Iran tensions lift oil, stoke inflation fears  Reuters",
+      "title": "Shares scale new peaks as markets eye shaky US-Iran truce - Reuters",
+      "summary": "Shares scale new peaks as markets eye shaky US-Iran truce  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "US-Iran deal optimism offers Indian rupee, bonds a breather - Reuters",
-      "summary": "US-Iran deal optimism offers Indian rupee, bonds a breather  Reuters",
+      "title": "S&P 500, Nasdaq hit record closing highs on AI optimism, Micron joins $1 trillion club - Reuters",
+      "summary": "S&P 500, Nasdaq hit record closing highs on AI optimism, Micron joins $1 trillio",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
+    "advancers": 2,
+    "decliners": 1,
     "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
