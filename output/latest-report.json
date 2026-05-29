@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-05-28",
-  "generated_at": "2026-05-28T05:07:28",
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T05:11:23",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30081.28,
-      "close": 29973.57,
-      "high": 30099.79,
-      "low": 29808.89,
-      "change_pct": -0.09,
-      "change_5d": 4.01,
-      "change_mtd": 8.17,
-      "date": "2026-05-27",
+      "open": 30030.63,
+      "close": 30223.89,
+      "high": 30263.19,
+      "low": 29848.76,
+      "change_pct": 0.84,
+      "change_5d": 3.16,
+      "change_mtd": 9.07,
+      "date": "2026-05-28",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7526.01,
-      "close": 7520.36,
-      "high": 7530.72,
-      "low": 7499.72,
-      "change_pct": 0.02,
-      "change_5d": 2.27,
-      "change_mtd": 4.01,
-      "date": "2026-05-27",
+      "open": 7519.82,
+      "close": 7563.63,
+      "high": 7568.72,
+      "low": 7508.04,
+      "change_pct": 0.58,
+      "change_5d": 1.76,
+      "change_mtd": 4.61,
+      "date": "2026-05-28",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 50487.16,
-      "close": 50644.28,
-      "high": 50830.41,
-      "low": 50487.16,
-      "change_pct": 0.36,
-      "change_5d": 2.59,
-      "change_mtd": 2.31,
-      "date": "2026-05-27",
+      "open": 50660.98,
+      "close": 50668.97,
+      "high": 50764.04,
+      "low": 50314.34,
+      "change_pct": 0.05,
+      "change_5d": 1.32,
+      "change_mtd": 2.36,
+      "date": "2026-05-28",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Gold hits two-month low as US-Iran tension stokes inflation fears - Reuters",
-      "summary": "Gold hits two-month low as US-Iran tension stokes inflation fears  Reuters",
+      "title": "US imposes fresh sanctions on Iran's military oil sales, Treasury says - Reuters",
+      "summary": "US imposes fresh sanctions on Iran's military oil sales, Treasury says  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Iran's IRGC say they targeted US airbase after strike near Bandar Abbas - Reuters",
-      "summary": "Iran's IRGC say they targeted US airbase after strike near Bandar Abbas  Reuters",
+      "title": "US Treasury sanctions Iran's Hormuz strait authority - Reuters",
+      "summary": "US Treasury sanctions Iran's Hormuz strait authority  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Shares falter, oil gains as Gulf hostilities heat up - Reuters",
-      "summary": "Shares falter, oil gains as Gulf hostilities heat up  Reuters",
+      "title": "Stocks eke out record closing highs, oil slides as markets eye US-Iran peace progress - Reuters",
+      "summary": "Stocks eke out record closing highs, oil slides as markets eye US-Iran peace pro",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 2,
-    "decliners": 1,
+    "advancers": 3,
+    "decliners": 0,
     "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
