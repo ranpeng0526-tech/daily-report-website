@@ -1,64 +1,64 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-06-01",
-  "generated_at": "2026-06-01T05:59:04",
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T05:27:32",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30333.86,
-      "close": 30333.18,
-      "high": 30470.03,
-      "low": 30210.01,
-      "change_pct": 0.36,
-      "change_5d": 3.32,
+      "open": 30295.25,
+      "close": 30513.86,
+      "high": 30633.55,
+      "low": 30241.2,
+      "change_pct": 0.6,
+      "change_5d": 3.5,
       "change_mtd": 0.0,
-      "date": "2026-05-29",
+      "date": "2026-06-01",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7579.33,
-      "close": 7580.06,
-      "high": 7599.38,
-      "low": 7563.55,
-      "change_pct": 0.22,
-      "change_5d": 1.8,
+      "open": 7582.29,
+      "close": 7599.96,
+      "high": 7617.66,
+      "low": 7562.61,
+      "change_pct": 0.26,
+      "change_5d": 1.69,
       "change_mtd": 0.0,
-      "date": "2026-05-29",
+      "date": "2026-06-01",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 50773.91,
-      "close": 51032.46,
-      "high": 51094.18,
-      "low": 50698.27,
-      "change_pct": 0.72,
-      "change_5d": 1.49,
+      "open": 51161.1,
+      "close": 51078.88,
+      "high": 51161.1,
+      "low": 50767.32,
+      "change_pct": 0.09,
+      "change_5d": 0.99,
       "change_mtd": 0.0,
-      "date": "2026-05-29",
+      "date": "2026-06-01",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Wall Street ends higher, crude prices ease on potential US-Iran truce extension - Reuters",
-      "summary": "Wall Street ends higher, crude prices ease on potential US-Iran truce extension ",
+      "title": "Asia stocks slide as Middle East anxiety offsets AI optimism - Reuters",
+      "summary": "Asia stocks slide as Middle East anxiety offsets AI optimism  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Wall Street ends higher, Brent crude eases on reports of US-Iran truce extension - Reuters",
-      "summary": "Wall Street ends higher, Brent crude eases on reports of US-Iran truce extension",
+      "title": "Stocks steady at record highs as AI optimism trumps Iran tensions - Reuters",
+      "summary": "Stocks steady at record highs as AI optimism trumps Iran tensions  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Gold gains on US-Iran ceasefire optimism but set for monthly drop - Reuters",
-      "summary": "Gold gains on US-Iran ceasefire optimism but set for monthly drop  Reuters",
+      "title": "Traders on Kalshi indicate that May's jobs report will top Wall Street expectations",
+      "summary": "Traders on prediction markets are in consensus with Dow Jones estimates that num",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
