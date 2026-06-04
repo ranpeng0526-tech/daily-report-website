@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-06-03",
-  "generated_at": "2026-06-03T06:01:34",
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T05:53:47",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30471.61,
-      "close": 30660.6,
-      "high": 30670.11,
-      "low": 30372.96,
-      "change_pct": 0.48,
-      "change_5d": 2.2,
-      "change_mtd": 0.48,
-      "date": "2026-06-02",
+      "open": 30730.11,
+      "close": 30571.24,
+      "high": 30762.2,
+      "low": 30441.8,
+      "change_pct": -0.29,
+      "change_5d": 1.99,
+      "change_mtd": 0.19,
+      "date": "2026-06-03",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7595.4,
-      "close": 7609.78,
-      "high": 7620.9,
-      "low": 7582.99,
-      "change_pct": 0.13,
-      "change_5d": 1.21,
-      "change_mtd": 0.13,
-      "date": "2026-06-02",
+      "open": 7605.31,
+      "close": 7553.68,
+      "high": 7605.35,
+      "low": 7551.22,
+      "change_pct": -0.74,
+      "change_5d": 0.44,
+      "change_mtd": -0.61,
+      "date": "2026-06-03",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 50912.84,
-      "close": 51307.79,
-      "high": 51369.61,
-      "low": 50829.55,
-      "change_pct": 0.45,
-      "change_5d": 1.68,
-      "change_mtd": 0.45,
-      "date": "2026-06-02",
+      "open": 51220.92,
+      "close": 50687.07,
+      "high": 51220.92,
+      "low": 50687.07,
+      "change_pct": -1.21,
+      "change_5d": 0.08,
+      "change_mtd": -0.77,
+      "date": "2026-06-03",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Oil up on Middle East fighting while AI bulls carry stocks higher - Reuters",
-      "summary": "Oil up on Middle East fighting while AI bulls carry stocks higher  Reuters",
+      "title": "Indian shares open lower as US-Iran tensions unsettle markets - Reuters",
+      "summary": "Indian shares open lower as US-Iran tensions unsettle markets  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Gold eases as Middle East tensions lift oil, US economic data in focus - Reuters",
-      "summary": "Gold eases as Middle East tensions lift oil, US economic data in focus  Reuters",
+      "title": "Gold rises on softer dollar, oil as markets weigh US-Iran peace optimism - Reuters",
+      "summary": "Gold rises on softer dollar, oil as markets weigh US-Iran peace optimism  Reuter",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil extends gains as Middle East hostilities flare and talks stall - Reuters",
-      "summary": "Oil extends gains as Middle East hostilities flare and talks stall  Reuters",
+      "title": "US crude stocks fall on strong export, refining demand, EIA says, as Iran war continues - Reuters",
+      "summary": "US crude stocks fall on strong export, refining demand, EIA says, as Iran war co",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
