@@ -1,7 +1,7 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-06-10",
-  "generated_at": "2026-06-10T05:14:34",
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T05:26:05",
   "indices": [
     {
       "name": "纳斯达克100",
@@ -13,7 +13,7 @@
       "change_pct": NaN,
       "change_5d": NaN,
       "change_mtd": NaN,
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "error": ""
     },
     {
@@ -26,7 +26,7 @@
       "change_pct": NaN,
       "change_5d": NaN,
       "change_mtd": NaN,
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "error": ""
     },
     {
@@ -39,17 +39,11 @@
       "change_pct": NaN,
       "change_5d": NaN,
       "change_mtd": NaN,
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "error": ""
     }
   ],
   "top_news": [
-    {
-      "title": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz - Reuters",
-      "summary": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hor",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
-    },
     {
       "title": "We're booking more profits in a tech stock as the market wobbles ahead of a big IPO",
       "summary": "We'll realize a gain of about 90% on shares bought in April.",
@@ -57,8 +51,14 @@
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "S&P 500, Nasdaq fall as tech selling resumes, Trump vows to respond to downed US helicopter - Reuters",
-      "summary": "S&P 500, Nasdaq fall as tech selling resumes, Trump vows to respond to downed US",
+      "title": "Trump says US will attack Iran 'very hard' and has taken oil through Hormuz - Reuters",
+      "summary": "Trump says US will attack Iran 'very hard' and has taken oil through Hormuz  Reu",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
+    {
+      "title": "European shares steady as investors weigh US-Iran flare-up - Reuters",
+      "summary": "European shares steady as investors weigh US-Iran flare-up  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
