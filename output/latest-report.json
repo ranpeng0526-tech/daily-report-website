@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-06-16",
-  "generated_at": "2026-06-16T06:31:26",
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T06:07:21",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
-      "date": "2026-06-15",
+      "open": 30455.49,
+      "close": 29968.13,
+      "high": 30560.08,
+      "low": 29962.87,
+      "change_pct": -1.89,
+      "change_5d": 3.04,
+      "change_mtd": -1.79,
+      "date": "2026-06-16",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
-      "date": "2026-06-15",
+      "open": 7548.78,
+      "close": 7511.35,
+      "high": 7564.96,
+      "low": 7508.68,
+      "change_pct": -0.57,
+      "change_5d": 1.69,
+      "change_mtd": -1.17,
+      "date": "2026-06-16",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
-      "date": "2026-06-15",
+      "open": 51712.63,
+      "close": 51999.67,
+      "high": 52190.29,
+      "low": 51712.63,
+      "change_pct": 0.64,
+      "change_5d": 2.22,
+      "change_mtd": 1.8,
+      "date": "2026-06-16",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Bitcoin rallies to two-week high after US-Iran Hormuz deal",
-      "summary": "Risk appetite returned to markets after President Donald Trump said on social me",
+      "title": "Indian shares extend rally as lower crude lifts sentiment after US-Iran deal - Reuters",
+      "summary": "Indian shares extend rally as lower crude lifts sentiment after US-Iran deal  Re",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Things are lining up in favor of the market bulls. How to proceed from here",
-      "summary": "Oil and bond yields are falling on U.S.-Iran optimism, and the market cleared th",
+      "title": "Gold steady as investors await details of US-Iran deal, Fed verdict - Reuters",
+      "summary": "Gold steady as investors await details of US-Iran deal, Fed verdict  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Iran peace deal, SpaceX IPO and World Cup concerns - Reuters",
-      "summary": "Iran peace deal, SpaceX IPO and World Cup concerns  Reuters",
+      "title": "Oil dips as investors weigh deal on Iran war as uncertainty persists on Hormuz - Reuters",
+      "summary": "Oil dips as investors weigh deal on Iran war as uncertainty persists on Hormuz  ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 0,
-    "sentiment": "市场涨跌互现，表现分化。"
+    "advancers": 1,
+    "decliners": 2,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
