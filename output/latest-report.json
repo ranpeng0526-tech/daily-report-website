@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-06-18",
-  "generated_at": "2026-06-18T05:52:46",
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T06:13:59",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30160.74,
-      "close": 29670.95,
-      "high": 30208.94,
-      "low": 29604.93,
-      "change_pct": -0.99,
-      "change_5d": 4.08,
-      "change_mtd": -2.76,
-      "date": "2026-06-17",
+      "open": NaN,
+      "close": NaN,
+      "high": NaN,
+      "low": NaN,
+      "change_pct": NaN,
+      "change_5d": NaN,
+      "change_mtd": NaN,
+      "date": "2026-06-18",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7524.5,
-      "close": 7420.1,
-      "high": 7532.17,
-      "low": 7402.61,
-      "change_pct": -1.21,
-      "change_5d": 2.11,
-      "change_mtd": -2.37,
-      "date": "2026-06-17",
+      "open": NaN,
+      "close": NaN,
+      "high": NaN,
+      "low": NaN,
+      "change_pct": NaN,
+      "change_5d": NaN,
+      "change_mtd": NaN,
+      "date": "2026-06-18",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51937.56,
-      "close": 51492.55,
-      "high": 52281.19,
-      "low": 51392.58,
-      "change_pct": -0.98,
-      "change_5d": 3.15,
-      "change_mtd": 0.81,
-      "date": "2026-06-17",
+      "open": NaN,
+      "close": NaN,
+      "high": NaN,
+      "low": NaN,
+      "change_pct": NaN,
+      "change_5d": NaN,
+      "change_mtd": NaN,
+      "date": "2026-06-18",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Wall Street rallies, Dow ends with record on US-Iran deal, oil price slide - Reuters",
-      "summary": "Wall Street rallies, Dow ends with record on US-Iran deal, oil price slide  Reut",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
-    },
-    {
-      "title": "Gold climbs over 1% as oil drops on US-Iran interim deal - Reuters",
-      "summary": "Gold climbs over 1% as oil drops on US-Iran interim deal  Reuters",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
-    },
-    {
       "title": "Indian shares extend rally as lower crude lifts sentiment after US-Iran deal - Reuters",
       "summary": "Indian shares extend rally as lower crude lifts sentiment after US-Iran deal  Re",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
+    {
+      "title": "Wall St indexes advance with boost from chips, Iran optimism - Reuters",
+      "summary": "Wall St indexes advance with boost from chips, Iran optimism  Reuters",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
+    {
+      "title": "Iran's Khamenei says he approved MoU with US, despite reservations, after assurances on Iran's rights - Reuters",
+      "summary": "Iran's Khamenei says he approved MoU with US, despite reservations, after assura",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
     "advancers": 0,
-    "decliners": 3,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "decliners": 0,
+    "sentiment": "市场涨跌互现，表现分化。"
   },
   "sources": [
     "Yahoo Finance",
