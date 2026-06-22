@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-06-19",
-  "generated_at": "2026-06-19T06:13:59",
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T06:25:46",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
+      "open": 30261.6,
+      "close": 30406.19,
+      "high": 30463.77,
+      "low": 30089.35,
+      "change_pct": 2.48,
+      "change_5d": 3.26,
+      "change_mtd": -0.35,
       "date": "2026-06-18",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
+      "open": 7487.36,
+      "close": 7500.58,
+      "high": 7511.07,
+      "low": 7468.32,
+      "change_pct": 1.08,
+      "change_5d": 1.44,
+      "change_mtd": -1.31,
       "date": "2026-06-18",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
+      "open": 51571.85,
+      "close": 51564.7,
+      "high": 51949.26,
+      "low": 51554.53,
+      "change_pct": 0.14,
+      "change_5d": 1.41,
+      "change_mtd": 0.95,
       "date": "2026-06-18",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Indian shares extend rally as lower crude lifts sentiment after US-Iran deal - Reuters",
-      "summary": "Indian shares extend rally as lower crude lifts sentiment after US-Iran deal  Re",
+      "title": "Dollar steady as first round of US-Iran talks ends, pound dips on Starmer uncertainty - Reuters",
+      "summary": "Dollar steady as first round of US-Iran talks ends, pound dips on Starmer uncert",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Wall St indexes advance with boost from chips, Iran optimism - Reuters",
-      "summary": "Wall St indexes advance with boost from chips, Iran optimism  Reuters",
+      "title": "US and Iran conclude high-level talks in Switzerland, mediators say - Reuters",
+      "summary": "US and Iran conclude high-level talks in Switzerland, mediators say  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Iran's Khamenei says he approved MoU with US, despite reservations, after assurances on Iran's rights - Reuters",
-      "summary": "Iran's Khamenei says he approved MoU with US, despite reservations, after assura",
+      "title": "Iran leave note of thanks in LA locker room after draw with Belgium - Reuters",
+      "summary": "Iran leave note of thanks in LA locker room after draw with Belgium  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
+    "advancers": 3,
     "decliners": 0,
-    "sentiment": "市场涨跌互现，表现分化。"
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
