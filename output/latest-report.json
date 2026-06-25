@@ -1,55 +1,49 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-06-24",
-  "generated_at": "2026-06-24T05:00:06",
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T05:01:45",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29369.25,
-      "close": 29347.27,
-      "high": 29748.72,
-      "low": 29276.98,
-      "change_pct": -3.29,
-      "change_5d": -3.92,
-      "change_mtd": -3.82,
-      "date": "2026-06-23",
+      "open": 29328.4,
+      "close": 29220.06,
+      "high": 29592.9,
+      "low": 28963.1,
+      "change_pct": -0.43,
+      "change_5d": -2.5,
+      "change_mtd": -4.24,
+      "date": "2026-06-24",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7366.51,
-      "close": 7365.46,
-      "high": 7424.17,
-      "low": 7347.6,
-      "change_pct": -1.44,
-      "change_5d": -2.5,
-      "change_mtd": -3.09,
-      "date": "2026-06-23",
+      "open": 7370.88,
+      "close": 7358.22,
+      "high": 7428.06,
+      "low": 7336.82,
+      "change_pct": -0.1,
+      "change_5d": -2.04,
+      "change_mtd": -3.18,
+      "date": "2026-06-24",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51735.64,
-      "close": 51666.84,
-      "high": 51872.56,
-      "low": 51301.77,
-      "change_pct": -0.09,
-      "change_5d": -0.01,
-      "change_mtd": 1.15,
-      "date": "2026-06-23",
+      "open": 51660.75,
+      "close": 51848.9,
+      "high": 52248.69,
+      "low": 51617.73,
+      "change_pct": 0.35,
+      "change_5d": -0.29,
+      "change_mtd": 1.51,
+      "date": "2026-06-24",
       "error": ""
     }
   ],
   "top_news": [
-    {
-      "title": "New Lebanon-Israel talks begin in shadow of US-Iran deal - Reuters",
-      "summary": "New Lebanon-Israel talks begin in shadow of US-Iran deal  Reuters",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
-    },
     {
       "title": "Gold rises as US-Iran peace optimism pulls oil prices lower - Reuters",
       "summary": "Gold rises as US-Iran peace optimism pulls oil prices lower  Reuters",
@@ -57,15 +51,21 @@
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Trump threatens new attacks as US-Iran peace talks open in Switzerland - Reuters",
-      "summary": "Trump threatens new attacks as US-Iran peace talks open in Switzerland  Reuters",
+      "title": "Iran says U.S. airport delay holds up World Cup delegation - Reuters",
+      "summary": "Iran says U.S. airport delay holds up World Cup delegation  Reuters",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
+    {
+      "title": "Egypt, Iran face crunch World Cup game in shadow of geopolitics - Reuters",
+      "summary": "Egypt, Iran face crunch World Cup game in shadow of geopolitics  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
+    "advancers": 1,
+    "decliners": 2,
     "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
