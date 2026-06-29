@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-06-26",
-  "generated_at": "2026-06-26T05:06:08",
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T05:27:29",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29843.89,
-      "close": 29440.32,
-      "high": 29843.89,
-      "low": 29000.55,
-      "change_pct": 0.75,
-      "change_5d": -0.78,
-      "change_mtd": -3.52,
-      "date": "2026-06-25",
+      "open": 29040.12,
+      "close": 29118.24,
+      "high": 29413.8,
+      "low": 28890.74,
+      "change_pct": -1.09,
+      "change_5d": -4.24,
+      "change_mtd": -4.57,
+      "date": "2026-06-26",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7404.91,
-      "close": 7357.49,
-      "high": 7419.08,
-      "low": 7323.5,
-      "change_pct": -0.01,
-      "change_5d": -0.84,
-      "change_mtd": -3.19,
-      "date": "2026-06-25",
+      "open": 7312.74,
+      "close": 7354.02,
+      "high": 7392.95,
+      "low": 7294.18,
+      "change_pct": -0.05,
+      "change_5d": -1.95,
+      "change_mtd": -3.24,
+      "date": "2026-06-26",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52009.02,
-      "close": 51920.62,
-      "high": 52655.66,
-      "low": 51857.78,
-      "change_pct": 0.14,
-      "change_5d": 0.83,
-      "change_mtd": 1.65,
-      "date": "2026-06-25",
+      "open": 51803.77,
+      "close": 51876.11,
+      "high": 52130.07,
+      "low": 51614.74,
+      "change_pct": -0.09,
+      "change_5d": 0.6,
+      "change_mtd": 1.56,
+      "date": "2026-06-26",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Iran says U.S. airport delay holds up World Cup delegation - Reuters",
-      "summary": "Iran says U.S. airport delay holds up World Cup delegation  Reuters",
+      "title": "Iran wait on World Cup progress after late goal disallowed in Egypt draw - Reuters",
+      "summary": "Iran wait on World Cup progress after late goal disallowed in Egypt draw  Reuter",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Egypt, Iran face crunch World Cup game in shadow of geopolitics - Reuters",
-      "summary": "Egypt, Iran face crunch World Cup game in shadow of geopolitics  Reuters",
+      "title": "FIFA gives green light for rainbow flags at Egypt v Iran World Cup clash - Reuters",
+      "summary": "FIFA gives green light for rainbow flags at Egypt v Iran World Cup clash  Reuter",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Trump says Iran has told US no tolls being sought at Strait of Hormuz - Reuters",
-      "summary": "Trump says Iran has told US no tolls being sought at Strait of Hormuz  Reuters",
+      "title": "Gulf markets mixed as US-Iran trade attacks - Reuters",
+      "summary": "Gulf markets mixed as US-Iran trade attacks  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 2,
-    "decliners": 1,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
