@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-06-29",
-  "generated_at": "2026-06-29T05:27:29",
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T04:59:14",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29040.12,
-      "close": 29118.24,
-      "high": 29413.8,
-      "low": 28890.74,
-      "change_pct": -1.09,
-      "change_5d": -4.24,
-      "change_mtd": -4.57,
-      "date": "2026-06-26",
+      "open": 29310.26,
+      "close": 29774.75,
+      "high": 29792.63,
+      "low": 28991.52,
+      "change_pct": 2.25,
+      "change_5d": -1.89,
+      "change_mtd": -2.42,
+      "date": "2026-06-29",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7312.74,
-      "close": 7354.02,
-      "high": 7392.95,
-      "low": 7294.18,
-      "change_pct": -0.05,
-      "change_5d": -1.95,
-      "change_mtd": -3.24,
-      "date": "2026-06-26",
+      "open": 7391.88,
+      "close": 7440.43,
+      "high": 7444.32,
+      "low": 7348.88,
+      "change_pct": 1.18,
+      "change_5d": -0.43,
+      "change_mtd": -2.1,
+      "date": "2026-06-29",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51803.77,
-      "close": 51876.11,
-      "high": 52130.07,
-      "low": 51614.74,
-      "change_pct": -0.09,
-      "change_5d": 0.6,
-      "change_mtd": 1.56,
-      "date": "2026-06-26",
+      "open": 51995.14,
+      "close": 52182.74,
+      "high": 52311.63,
+      "low": 51949.54,
+      "change_pct": 0.59,
+      "change_5d": 0.91,
+      "change_mtd": 2.16,
+      "date": "2026-06-29",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Iran wait on World Cup progress after late goal disallowed in Egypt draw - Reuters",
-      "summary": "Iran wait on World Cup progress after late goal disallowed in Egypt draw  Reuter",
+      "title": "Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump - Reuters",
+      "summary": "Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "FIFA gives green light for rainbow flags at Egypt v Iran World Cup clash - Reuters",
-      "summary": "FIFA gives green light for rainbow flags at Egypt v Iran World Cup clash  Reuter",
+      "title": "Trading Day: Wall Street gains, Dow hits record closing high as fragile U.S.-Iran truce holds - Reuters",
+      "summary": "Trading Day: Wall Street gains, Dow hits record closing high as fragile U.S.-Ira",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Gulf markets mixed as US-Iran trade attacks - Reuters",
-      "summary": "Gulf markets mixed as US-Iran trade attacks  Reuters",
+      "title": "Kalshi traders expect this week's jobs report will disappoint Wall Street outlook",
+      "summary": "The Dow Jones expects over 118,000 jobs will be added, but Kalshi traders give u",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 3,
+    "decliners": 0,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
