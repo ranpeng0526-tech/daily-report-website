@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-02",
-  "generated_at": "2026-07-02T04:55:30",
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T04:39:13",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29914.28,
-      "close": 29809.13,
-      "high": 30084.78,
-      "low": 29787.41,
-      "change_pct": -1.54,
-      "change_5d": 2.02,
-      "change_mtd": 0.0,
-      "date": "2026-07-01",
+      "open": 29778.7,
+      "close": 29329.21,
+      "high": 30044.5,
+      "low": 29087.33,
+      "change_pct": -1.61,
+      "change_5d": -0.38,
+      "change_mtd": -1.61,
+      "date": "2026-07-02",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7478.84,
-      "close": 7483.23,
-      "high": 7521.81,
-      "low": 7449.63,
-      "change_pct": -0.22,
-      "change_5d": 1.7,
+      "open": 7495.14,
+      "close": 7483.24,
+      "high": 7540.75,
+      "low": 7427.55,
+      "change_pct": 0.0,
+      "change_5d": 1.71,
       "change_mtd": 0.0,
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52231.18,
-      "close": 52305.24,
-      "high": 52742.66,
-      "low": 52026.64,
-      "change_pct": -0.03,
-      "change_5d": 0.88,
-      "change_mtd": 0.0,
-      "date": "2026-07-01",
+      "open": 52395.22,
+      "close": 52900.07,
+      "high": 52903.85,
+      "low": 52395.22,
+      "change_pct": 1.14,
+      "change_5d": 1.89,
+      "change_mtd": 1.14,
+      "date": "2026-07-02",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump - Reuters",
-      "summary": "Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump",
+      "title": "EXCLUSIVE: Kuwait sharply boosts crude production in June after US-Iran deal, source says - Reuters",
+      "summary": "EXCLUSIVE: Kuwait sharply boosts crude production in June after US-Iran deal, so",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Trading Day: Wall Street gains, Dow hits record closing high as fragile U.S.-Iran truce holds - Reuters",
-      "summary": "Trading Day: Wall Street gains, Dow hits record closing high as fragile U.S.-Ira",
+      "title": "Oil prices fall 1% to 4-month lows as progress in US-Iran talks cools supply concerns - Reuters",
+      "summary": "Oil prices fall 1% to 4-month lows as progress in US-Iran talks cools supply con",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Tech leads first half stock gains — but the biggest winners weren't in the U.S.",
-      "summary": "U.S. Big Tech stocks enjoyed strong gains — despite a sharp sell-off at the end ",
+      "title": "Investors warm to European stocks eclipsed by Wall Street's AI glow - Reuters",
+      "summary": "Investors warm to European stocks eclipsed by Wall Street's AI glow  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 2,
+    "decliners": 1,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
