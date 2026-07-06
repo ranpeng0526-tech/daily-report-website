@@ -1,7 +1,7 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-03",
-  "generated_at": "2026-07-03T04:39:13",
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T05:07:37",
   "indices": [
     {
       "name": "纳斯达克100",
@@ -45,20 +45,20 @@
   ],
   "top_news": [
     {
-      "title": "EXCLUSIVE: Kuwait sharply boosts crude production in June after US-Iran deal, source says - Reuters",
-      "summary": "EXCLUSIVE: Kuwait sharply boosts crude production in June after US-Iran deal, so",
+      "title": "Investors looking for shelter from AI storm are turning to India",
+      "summary": "With the artificial intelligence frenzy roiling benchmark gauges from Asia to th",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil prices fall 1% to 4-month lows as progress in US-Iran talks cools supply concerns - Reuters",
-      "summary": "Oil prices fall 1% to 4-month lows as progress in US-Iran talks cools supply con",
+      "title": "Oil prices little changed as US-Iran peace efforts hold - Reuters",
+      "summary": "Oil prices little changed as US-Iran peace efforts hold  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Investors warm to European stocks eclipsed by Wall Street's AI glow - Reuters",
-      "summary": "Investors warm to European stocks eclipsed by Wall Street's AI glow  Reuters",
+      "title": "Most Gulf markets slip on caution over US-Iran talks - Reuters",
+      "summary": "Most Gulf markets slip on caution over US-Iran talks  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
