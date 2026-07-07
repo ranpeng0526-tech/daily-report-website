@@ -1,49 +1,55 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-06",
-  "generated_at": "2026-07-06T05:07:37",
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T04:47:33",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29778.7,
-      "close": 29329.21,
-      "high": 30044.5,
-      "low": 29087.33,
-      "change_pct": -1.61,
-      "change_5d": -0.38,
-      "change_mtd": -1.61,
-      "date": "2026-07-02",
+      "open": 29575.57,
+      "close": 29697.87,
+      "high": 29847.74,
+      "low": 29553.62,
+      "change_pct": 1.26,
+      "change_5d": 1.99,
+      "change_mtd": -0.37,
+      "date": "2026-07-06",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7495.14,
-      "close": 7483.24,
-      "high": 7540.75,
-      "low": 7427.55,
-      "change_pct": 0.0,
-      "change_5d": 1.71,
-      "change_mtd": 0.0,
-      "date": "2026-07-02",
+      "open": 7506.96,
+      "close": 7537.43,
+      "high": 7551.31,
+      "low": 7500.97,
+      "change_pct": 0.72,
+      "change_5d": 2.49,
+      "change_mtd": 0.72,
+      "date": "2026-07-06",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52395.22,
-      "close": 52900.07,
-      "high": 52903.85,
-      "low": 52395.22,
-      "change_pct": 1.14,
-      "change_5d": 1.89,
-      "change_mtd": 1.14,
-      "date": "2026-07-02",
+      "open": 52828.45,
+      "close": 53055.91,
+      "high": 53060.1,
+      "low": 52648.69,
+      "change_pct": 0.29,
+      "change_5d": 2.27,
+      "change_mtd": 1.44,
+      "date": "2026-07-06",
       "error": ""
     }
   ],
   "top_news": [
+    {
+      "title": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession - Reuters",
+      "summary": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession ",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
     {
       "title": "Investors looking for shelter from AI storm are turning to India",
       "summary": "With the artificial intelligence frenzy roiling benchmark gauges from Asia to th",
@@ -51,21 +57,15 @@
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil prices little changed as US-Iran peace efforts hold - Reuters",
-      "summary": "Oil prices little changed as US-Iran peace efforts hold  Reuters",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
-    },
-    {
-      "title": "Most Gulf markets slip on caution over US-Iran talks - Reuters",
-      "summary": "Most Gulf markets slip on caution over US-Iran talks  Reuters",
+      "title": "Mass grief in Iran at Khamenei funeral after US, Israel war killing - Reuters",
+      "summary": "Mass grief in Iran at Khamenei funeral after US, Israel war killing  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 2,
-    "decliners": 1,
+    "advancers": 3,
+    "decliners": 0,
     "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
