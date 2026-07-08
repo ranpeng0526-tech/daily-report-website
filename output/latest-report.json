@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-07",
-  "generated_at": "2026-07-07T04:47:33",
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T04:11:41",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29575.57,
-      "close": 29697.87,
-      "high": 29847.74,
-      "low": 29553.62,
-      "change_pct": 1.26,
-      "change_5d": 1.99,
-      "change_mtd": -0.37,
-      "date": "2026-07-06",
+      "open": 29362.2,
+      "close": 29173.02,
+      "high": 29426.45,
+      "low": 28974.47,
+      "change_pct": -1.77,
+      "change_5d": -2.02,
+      "change_mtd": -2.13,
+      "date": "2026-07-07",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7506.96,
-      "close": 7537.43,
-      "high": 7551.31,
-      "low": 7500.97,
-      "change_pct": 0.72,
-      "change_5d": 2.49,
-      "change_mtd": 0.72,
-      "date": "2026-07-06",
+      "open": 7516.63,
+      "close": 7503.85,
+      "high": 7536.06,
+      "low": 7478.63,
+      "change_pct": -0.45,
+      "change_5d": 0.85,
+      "change_mtd": 0.28,
+      "date": "2026-07-07",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52828.45,
-      "close": 53055.91,
-      "high": 53060.1,
-      "low": 52648.69,
-      "change_pct": 0.29,
-      "change_5d": 2.27,
-      "change_mtd": 1.44,
-      "date": "2026-07-06",
+      "open": 53104.06,
+      "close": 52925.15,
+      "high": 53289.3,
+      "low": 52774.17,
+      "change_pct": -0.25,
+      "change_5d": 1.42,
+      "change_mtd": 1.19,
+      "date": "2026-07-07",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession - Reuters",
-      "summary": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession ",
+      "title": "As chip sector takes it on the chin, traders bet on a big Nvidia rally",
+      "summary": "Shares of Nvidia fought into the green despite a 5% sell-off in chip stocks trac",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Investors looking for shelter from AI storm are turning to India",
-      "summary": "With the artificial intelligence frenzy roiling benchmark gauges from Asia to th",
+      "title": "Indian shares set to open lower as US-Iran tensions lift oil prices - Reuters",
+      "summary": "Indian shares set to open lower as US-Iran tensions lift oil prices  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Mass grief in Iran at Khamenei funeral after US, Israel war killing - Reuters",
-      "summary": "Mass grief in Iran at Khamenei funeral after US, Israel war killing  Reuters",
+      "title": "Gold eases as fresh US-Iran tensions lift oil prices, rate-hike bets - Reuters",
+      "summary": "Gold eases as fresh US-Iran tensions lift oil prices, rate-hike bets  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
