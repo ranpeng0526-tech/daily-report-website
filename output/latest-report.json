@@ -1,45 +1,45 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-08",
-  "generated_at": "2026-07-08T04:11:41",
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T04:48:53",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29362.2,
-      "close": 29173.02,
-      "high": 29426.45,
-      "low": 28974.47,
-      "change_pct": -1.77,
-      "change_5d": -2.02,
-      "change_mtd": -2.13,
-      "date": "2026-07-07",
+      "open": 29030.33,
+      "close": 29252.56,
+      "high": 29280.58,
+      "low": 28814.57,
+      "change_pct": 0.27,
+      "change_5d": -3.38,
+      "change_mtd": -1.87,
+      "date": "2026-07-08",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7516.63,
-      "close": 7503.85,
-      "high": 7536.06,
-      "low": 7478.63,
-      "change_pct": -0.45,
-      "change_5d": 0.85,
-      "change_mtd": 0.28,
-      "date": "2026-07-07",
+      "open": 7476.54,
+      "close": 7482.71,
+      "high": 7488.51,
+      "low": 7421.82,
+      "change_pct": -0.28,
+      "change_5d": -0.22,
+      "change_mtd": -0.01,
+      "date": "2026-07-08",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 53104.06,
-      "close": 52925.15,
-      "high": 53289.3,
-      "low": 52774.17,
-      "change_pct": -0.25,
-      "change_5d": 1.42,
-      "change_mtd": 1.19,
-      "date": "2026-07-07",
+      "open": 52758.47,
+      "close": 52348.39,
+      "high": 52758.47,
+      "low": 52069.87,
+      "change_pct": -1.09,
+      "change_5d": 0.06,
+      "change_mtd": 0.08,
+      "date": "2026-07-08",
       "error": ""
     }
   ],
@@ -51,21 +51,21 @@
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Indian shares set to open lower as US-Iran tensions lift oil prices - Reuters",
-      "summary": "Indian shares set to open lower as US-Iran tensions lift oil prices  Reuters",
+      "title": "Investors get inflation 'wake-up call' as Trump fires up oil prices - Reuters",
+      "summary": "Investors get inflation 'wake-up call' as Trump fires up oil prices  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Gold eases as fresh US-Iran tensions lift oil prices, rate-hike bets - Reuters",
-      "summary": "Gold eases as fresh US-Iran tensions lift oil prices, rate-hike bets  Reuters",
+      "title": "Trump orders halt to US trade with Spain over NATO spending, Iran - Reuters",
+      "summary": "Trump orders halt to US trade with Spain over NATO spending, Iran  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
+    "advancers": 1,
+    "decliners": 2,
     "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
