@@ -1,52 +1,52 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-09",
-  "generated_at": "2026-07-09T04:48:53",
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T04:46:57",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29030.33,
-      "close": 29252.56,
-      "high": 29280.58,
-      "low": 28814.57,
-      "change_pct": 0.27,
-      "change_5d": -3.38,
-      "change_mtd": -1.87,
-      "date": "2026-07-08",
+      "open": 29486.61,
+      "close": 29727.1,
+      "high": 29773.74,
+      "low": 29398.47,
+      "change_pct": 1.62,
+      "change_5d": -0.28,
+      "change_mtd": -0.28,
+      "date": "2026-07-09",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7476.54,
-      "close": 7482.71,
-      "high": 7488.51,
-      "low": 7421.82,
-      "change_pct": -0.28,
-      "change_5d": -0.22,
-      "change_mtd": -0.01,
-      "date": "2026-07-08",
+      "open": 7491.6,
+      "close": 7543.64,
+      "high": 7546.89,
+      "low": 7481.73,
+      "change_pct": 0.81,
+      "change_5d": 0.81,
+      "change_mtd": 0.81,
+      "date": "2026-07-09",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52758.47,
-      "close": 52348.39,
-      "high": 52758.47,
-      "low": 52069.87,
-      "change_pct": -1.09,
-      "change_5d": 0.06,
-      "change_mtd": 0.08,
-      "date": "2026-07-08",
+      "open": 52249.44,
+      "close": 52487.41,
+      "high": 52574.89,
+      "low": 52249.44,
+      "change_pct": 0.27,
+      "change_5d": 0.35,
+      "change_mtd": 0.35,
+      "date": "2026-07-09",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "As chip sector takes it on the chin, traders bet on a big Nvidia rally",
-      "summary": "Shares of Nvidia fought into the green despite a 5% sell-off in chip stocks trac",
+      "title": "Trading Day: What war? Chip-led rally helps markets ignore on-again, off-again US-Iran truce - Reuters",
+      "summary": "Trading Day: What war? Chip-led rally helps markets ignore on-again, off-again U",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
@@ -57,16 +57,16 @@
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Trump orders halt to US trade with Spain over NATO spending, Iran - Reuters",
-      "summary": "Trump orders halt to US trade with Spain over NATO spending, Iran  Reuters",
+      "title": "Dollar dips as labor market remains stable, US-Iran tensions rise - Reuters",
+      "summary": "Dollar dips as labor market remains stable, US-Iran tensions rise  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 1,
-    "decliners": 2,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 3,
+    "decliners": 0,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
