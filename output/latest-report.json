@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T04:27:23",
+  "generated_at": "2026-07-14T03:54:11",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29618.34,
-      "close": 29825.11,
-      "high": 29856.94,
-      "low": 29484.49,
-      "change_pct": 0.33,
-      "change_5d": 1.69,
-      "change_mtd": 0.05,
-      "date": "2026-07-10",
+      "open": 29471.02,
+      "close": 29264.1,
+      "high": 29541.0,
+      "low": 29189.21,
+      "change_pct": -1.88,
+      "change_5d": -1.46,
+      "change_mtd": -1.83,
+      "date": "2026-07-13",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7547.64,
-      "close": 7575.39,
-      "high": 7579.93,
-      "low": 7508.16,
-      "change_pct": 0.42,
-      "change_5d": 1.23,
-      "change_mtd": 1.23,
-      "date": "2026-07-10",
+      "open": 7547.53,
+      "close": 7515.34,
+      "high": 7565.37,
+      "low": 7506.41,
+      "change_pct": -0.79,
+      "change_5d": -0.29,
+      "change_mtd": 0.43,
+      "date": "2026-07-13",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52622.92,
-      "close": 52637.01,
-      "high": 52709.75,
-      "low": 52266.81,
-      "change_pct": 0.29,
-      "change_5d": -0.5,
-      "change_mtd": 0.63,
-      "date": "2026-07-10",
+      "open": 52676.53,
+      "close": 52498.64,
+      "high": 52846.51,
+      "low": 52351.12,
+      "change_pct": -0.26,
+      "change_5d": -1.05,
+      "change_mtd": 0.37,
+      "date": "2026-07-13",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "AI, Iran war risks weigh on Indian IT firms’ earnings outlook",
-      "summary": "Earnings at Taiwan Semiconductor Manufacturing Co. will serve as a key reality c",
+      "title": "UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor killed - Reuters",
+      "summary": "UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor kil",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials - Reuters",
-      "summary": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials  R",
+      "title": "European shares subdued as oil jumps after US-Iran tensions escalate - Reuters",
+      "summary": "European shares subdued as oil jumps after US-Iran tensions escalate  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "US pain at the pump worsens after more US-Iran fighting lifts oil prices - Reuters",
-      "summary": "US pain at the pump worsens after more US-Iran fighting lifts oil prices  Reuter",
+      "title": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo - Reuters",
+      "summary": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo  Reu",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
