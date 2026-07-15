@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-13",
-  "generated_at": "2026-07-14T03:54:11",
+  "date": "2026-07-14",
+  "generated_at": "2026-07-15T03:55:35",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29471.02,
-      "close": 29264.1,
-      "high": 29541.0,
-      "low": 29189.21,
-      "change_pct": -1.88,
-      "change_5d": -1.46,
-      "change_mtd": -1.83,
-      "date": "2026-07-13",
+      "open": 29561.35,
+      "close": 29586.29,
+      "high": 29693.77,
+      "low": 29368.87,
+      "change_pct": 1.1,
+      "change_5d": 1.42,
+      "change_mtd": -0.75,
+      "date": "2026-07-14",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7547.53,
-      "close": 7515.34,
-      "high": 7565.37,
-      "low": 7506.41,
-      "change_pct": -0.79,
-      "change_5d": -0.29,
-      "change_mtd": 0.43,
-      "date": "2026-07-13",
+      "open": 7536.7,
+      "close": 7543.59,
+      "high": 7557.44,
+      "low": 7513.23,
+      "change_pct": 0.38,
+      "change_5d": 0.53,
+      "change_mtd": 0.81,
+      "date": "2026-07-14",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52676.53,
-      "close": 52498.64,
-      "high": 52846.51,
-      "low": 52351.12,
-      "change_pct": -0.26,
-      "change_5d": -1.05,
-      "change_mtd": 0.37,
-      "date": "2026-07-13",
+      "open": 52046.36,
+      "close": 52508.27,
+      "high": 52695.06,
+      "low": 52046.36,
+      "change_pct": 0.02,
+      "change_5d": -0.79,
+      "change_mtd": 0.39,
+      "date": "2026-07-14",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor killed - Reuters",
-      "summary": "UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor kil",
+      "title": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
+      "summary": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostili",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "European shares subdued as oil jumps after US-Iran tensions escalate - Reuters",
-      "summary": "European shares subdued as oil jumps after US-Iran tensions escalate  Reuters",
+      "title": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption - Reuters",
+      "summary": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo - Reuters",
-      "summary": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo  Reu",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "summary": "S&P 500 futures are up after June inflation data came in weaker than expected an",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 3,
+    "decliners": 0,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
