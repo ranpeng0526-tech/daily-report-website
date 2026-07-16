@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-14",
-  "generated_at": "2026-07-15T03:55:35",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-16T03:58:04",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29561.35,
-      "close": 29586.29,
-      "high": 29693.77,
-      "low": 29368.87,
-      "change_pct": 1.1,
-      "change_5d": 1.42,
-      "change_mtd": -0.75,
-      "date": "2026-07-14",
+      "open": 29759.8,
+      "close": 29502.6,
+      "high": 29771.89,
+      "low": 29192.89,
+      "change_pct": -0.28,
+      "change_5d": 0.85,
+      "change_mtd": -1.03,
+      "date": "2026-07-15",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7536.7,
-      "close": 7543.59,
-      "high": 7557.44,
-      "low": 7513.23,
+      "open": 7571.72,
+      "close": 7572.4,
+      "high": 7581.5,
+      "low": 7526.95,
       "change_pct": 0.38,
-      "change_5d": 0.53,
-      "change_mtd": 0.81,
-      "date": "2026-07-14",
+      "change_5d": 1.2,
+      "change_mtd": 1.19,
+      "date": "2026-07-15",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52046.36,
-      "close": 52508.27,
-      "high": 52695.06,
-      "low": 52046.36,
-      "change_pct": 0.02,
-      "change_5d": -0.79,
-      "change_mtd": 0.39,
-      "date": "2026-07-14",
+      "open": 52604.2,
+      "close": 52658.64,
+      "high": 52823.95,
+      "low": 52428.54,
+      "change_pct": 0.29,
+      "change_5d": 0.59,
+      "change_mtd": 0.68,
+      "date": "2026-07-15",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostilities - Reuters",
-      "summary": "Stocks gain on softer inflation, bank results while oil rises on US-Iran hostili",
+      "title": "Most Gulf markets subdued as US-Iran tensions escalate - Reuters",
+      "summary": "Most Gulf markets subdued as US-Iran tensions escalate  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption - Reuters",
-      "summary": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption",
+      "title": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, officials say - Reuters",
+      "summary": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, off",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "summary": "S&P 500 futures are up after June inflation data came in weaker than expected an",
+      "title": "SpaceX stock sinks below $135 IPO price for the first time",
+      "summary": "SpaceX shares fell for a fourth-straight session on Wednesday days after enterin",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
+    "advancers": 2,
+    "decliners": 1,
     "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
