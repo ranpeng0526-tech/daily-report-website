@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-15",
-  "generated_at": "2026-07-16T03:58:04",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-17T03:57:14",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29759.8,
-      "close": 29502.6,
-      "high": 29771.89,
-      "low": 29192.89,
-      "change_pct": -0.28,
-      "change_5d": 0.85,
-      "change_mtd": -1.03,
-      "date": "2026-07-15",
+      "open": 29318.3,
+      "close": 29025.77,
+      "high": 29333.06,
+      "low": 28881.23,
+      "change_pct": -1.62,
+      "change_5d": -2.36,
+      "change_mtd": -2.63,
+      "date": "2026-07-16",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7571.72,
-      "close": 7572.4,
-      "high": 7581.5,
-      "low": 7526.95,
-      "change_pct": 0.38,
-      "change_5d": 1.2,
-      "change_mtd": 1.19,
-      "date": "2026-07-15",
+      "open": 7558.8,
+      "close": 7533.77,
+      "high": 7570.74,
+      "low": 7504.02,
+      "change_pct": -0.51,
+      "change_5d": -0.13,
+      "change_mtd": 0.68,
+      "date": "2026-07-16",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52604.2,
-      "close": 52658.64,
-      "high": 52823.95,
-      "low": 52428.54,
-      "change_pct": 0.29,
-      "change_5d": 0.59,
-      "change_mtd": 0.68,
-      "date": "2026-07-15",
+      "open": 52924.86,
+      "close": 52552.97,
+      "high": 52924.86,
+      "low": 52367.42,
+      "change_pct": -0.2,
+      "change_5d": 0.12,
+      "change_mtd": 0.47,
+      "date": "2026-07-16",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Most Gulf markets subdued as US-Iran tensions escalate - Reuters",
-      "summary": "Most Gulf markets subdued as US-Iran tensions escalate  Reuters",
+      "title": "Dollar firms as US-Iran tensions renew oil price risk - Reuters",
+      "summary": "Dollar firms as US-Iran tensions renew oil price risk  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, officials say - Reuters",
-      "summary": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, off",
+      "title": "US House Republicans push forward on Trump funding plan for Iran war, election overhaul - Reuters",
+      "summary": "US House Republicans push forward on Trump funding plan for Iran war, election o",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "SpaceX stock sinks below $135 IPO price for the first time",
-      "summary": "SpaceX shares fell for a fourth-straight session on Wednesday days after enterin",
+      "title": "Pakistan worries about being drawn into US-Iran conflict after Houthis attack Saudi Arabia - Reuters",
+      "summary": "Pakistan worries about being drawn into US-Iran conflict after Houthis attack Sa",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 2,
-    "decliners": 1,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
