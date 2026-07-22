@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-21",
-  "generated_at": "2026-07-21T04:12:46",
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T04:14:08",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 28871.16,
-      "close": 28604.23,
-      "high": 29017.23,
-      "low": 28590.4,
-      "change_pct": 0.04,
-      "change_5d": -2.25,
-      "change_mtd": -4.04,
-      "date": "2026-07-20",
+      "open": 29059.44,
+      "close": 29155.18,
+      "high": 29192.29,
+      "low": 28891.07,
+      "change_pct": 1.93,
+      "change_5d": -1.46,
+      "change_mtd": -2.19,
+      "date": "2026-07-21",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7489.18,
-      "close": 7443.28,
-      "high": 7513.23,
-      "low": 7440.53,
-      "change_pct": -0.19,
-      "change_5d": -0.96,
-      "change_mtd": -0.53,
-      "date": "2026-07-20",
+      "open": 7489.95,
+      "close": 7509.2,
+      "high": 7515.31,
+      "low": 7467.86,
+      "change_pct": 0.89,
+      "change_5d": -0.46,
+      "change_mtd": 0.35,
+      "date": "2026-07-21",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52154.57,
-      "close": 51839.26,
-      "high": 52411.9,
-      "low": 51781.9,
-      "change_pct": -0.59,
-      "change_5d": -1.26,
-      "change_mtd": -0.89,
-      "date": "2026-07-20",
+      "open": 51916.79,
+      "close": 52224.64,
+      "high": 52370.65,
+      "low": 51890.1,
+      "change_pct": 0.74,
+      "change_5d": -0.54,
+      "change_mtd": -0.15,
+      "date": "2026-07-21",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "European shares tick lower as investors assess US-Iran jitters; tech earnings loom - Reuters",
-      "summary": "European shares tick lower as investors assess US-Iran jitters; tech earnings lo",
+      "title": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war - Reuters",
+      "summary": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war  Reu",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Gold edges down as US-Iran escalation lifts oil prices, rate hike bets - Reuters",
-      "summary": "Gold edges down as US-Iran escalation lifts oil prices, rate hike bets  Reuters",
+      "title": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade - Reuters",
+      "summary": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil prices dip as mediation efforts offset US-Iran strikes - Reuters",
-      "summary": "Oil prices dip as mediation efforts offset US-Iran strikes  Reuters",
+      "title": "Oil prices rise to five-week high on US-Iran attacks, Houthi blockade threat - Reuters",
+      "summary": "Oil prices rise to five-week high on US-Iran attacks, Houthi blockade threat  Re",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 1,
-    "decliners": 2,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 3,
+    "decliners": 0,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
