@@ -1,58 +1,58 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-22",
-  "generated_at": "2026-07-22T04:14:08",
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T04:12:01",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29059.44,
-      "close": 29155.18,
-      "high": 29192.29,
-      "low": 28891.07,
-      "change_pct": 1.93,
-      "change_5d": -1.46,
-      "change_mtd": -2.19,
-      "date": "2026-07-21",
+      "open": 28949.81,
+      "close": 28998.1,
+      "high": 29176.91,
+      "low": 28934.52,
+      "change_pct": -0.54,
+      "change_5d": -1.71,
+      "change_mtd": -2.72,
+      "date": "2026-07-22",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7489.95,
-      "close": 7509.2,
-      "high": 7515.31,
-      "low": 7467.86,
-      "change_pct": 0.89,
-      "change_5d": -0.46,
-      "change_mtd": 0.35,
-      "date": "2026-07-21",
+      "open": 7497.47,
+      "close": 7498.96,
+      "high": 7525.94,
+      "low": 7485.85,
+      "change_pct": -0.14,
+      "change_5d": -0.97,
+      "change_mtd": 0.21,
+      "date": "2026-07-22",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51916.79,
-      "close": 52224.64,
-      "high": 52370.65,
-      "low": 51890.1,
-      "change_pct": 0.74,
-      "change_5d": -0.54,
-      "change_mtd": -0.15,
-      "date": "2026-07-21",
+      "open": 52287.14,
+      "close": 52218.58,
+      "high": 52511.21,
+      "low": 52148.87,
+      "change_pct": -0.01,
+      "change_5d": -0.84,
+      "change_mtd": -0.17,
+      "date": "2026-07-22",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war - Reuters",
-      "summary": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war  Reu",
+      "title": "Oil prices jump on US-Iran strikes, stocks flat ahead of Big Tech results - Reuters",
+      "summary": "Oil prices jump on US-Iran strikes, stocks flat ahead of Big Tech results  Reute",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade - Reuters",
-      "summary": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade",
+      "title": "Yen slides past 163 mark to fresh 40-year low against US dollar",
+      "summary": "Japan’s currency fell as much as 0.5% to 163.24 per dollar overnight as the gree",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
@@ -64,9 +64,9 @@
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
