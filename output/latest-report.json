@@ -1,58 +1,58 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T04:11:12",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T04:33:46",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 28545.98,
-      "close": 28454.81,
-      "high": 28726.62,
-      "low": 28274.52,
-      "change_pct": -1.87,
-      "change_5d": -1.97,
-      "change_mtd": -4.54,
-      "date": "2026-07-23",
+      "open": 28362.15,
+      "close": 28128.34,
+      "high": 28471.48,
+      "low": 28053.08,
+      "change_pct": -1.15,
+      "change_5d": -1.62,
+      "change_mtd": -5.64,
+      "date": "2026-07-24",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7418.29,
-      "close": 7408.3,
-      "high": 7450.12,
-      "low": 7376.0,
-      "change_pct": -1.21,
-      "change_5d": -1.67,
-      "change_mtd": -1.0,
-      "date": "2026-07-23",
+      "open": 7406.3,
+      "close": 7411.98,
+      "high": 7460.98,
+      "low": 7396.53,
+      "change_pct": 0.05,
+      "change_5d": -0.61,
+      "change_mtd": -0.95,
+      "date": "2026-07-24",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51755.54,
-      "close": 51711.65,
-      "high": 51885.14,
-      "low": 51542.06,
-      "change_pct": -0.97,
-      "change_5d": -1.6,
-      "change_mtd": -1.13,
-      "date": "2026-07-23",
+      "open": 51791.37,
+      "close": 51947.25,
+      "high": 52118.19,
+      "low": 51682.36,
+      "change_pct": 0.46,
+      "change_5d": -0.38,
+      "change_mtd": -0.68,
+      "date": "2026-07-24",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Trump plays down prospects of Iran talks amid Red Sea threat",
-      "summary": "Trump downplays Iran talks amid escalating tensions and threats to Red Sea shipp",
+      "title": "Most Gulf markets ease after Houthi attacks on Saudi Red Sea oil sites - Reuters",
+      "summary": "Most Gulf markets ease after Houthi attacks on Saudi Red Sea oil sites  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Houthis claim attacks on Saudi tankers in Red Sea, raising risk of new chokepoint in Iran war - Reuters",
-      "summary": "Houthis claim attacks on Saudi tankers in Red Sea, raising risk of new chokepoin",
+      "title": "Brent crude trades above $100 amid Houthi attacks in Red Sea, widening US-Iran war",
+      "summary": "Trump threatened “major military punishment” for both Iran and the Houthis in th",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
@@ -64,9 +64,9 @@
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 2,
+    "decliners": 1,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
