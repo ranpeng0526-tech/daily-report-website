@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T04:09:02",
+  "generated_at": "2026-07-30T03:53:12",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
-      "date": "2026-07-28",
+      "open": 27780.46,
+      "close": 27192.31,
+      "high": 27954.91,
+      "low": 27176.03,
+      "change_pct": -2.06,
+      "change_5d": -6.23,
+      "change_mtd": -8.78,
+      "date": "2026-07-29",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
-      "date": "2026-07-28",
+      "open": 7418.16,
+      "close": 7316.15,
+      "high": 7450.84,
+      "low": 7313.92,
+      "change_pct": -1.52,
+      "change_5d": -2.44,
+      "change_mtd": -2.23,
+      "date": "2026-07-29",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
-      "date": "2026-07-28",
+      "open": 52674.21,
+      "close": 51594.14,
+      "high": 52674.21,
+      "low": 51551.18,
+      "change_pct": -2.19,
+      "change_5d": -1.2,
+      "change_mtd": -1.36,
+      "date": "2026-07-29",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Brent crude trades above $100 amid Houthi attacks in Red Sea, widening US-Iran war",
-      "summary": "Trump threatened “major military punishment” for both Iran and the Houthis in th",
+      "title": "US intercepts Iranian missile attack as West Asia tensions push oil prices higher",
+      "summary": "US says it intercepted Iranian missiles targeting military bases as crude oil su",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "US stocks tumble as AI spending and oil prices weigh on market",
-      "summary": "Bloomberg: The S&P 500 Index is on track for its worst day in a month.",
+      "title": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
+      "summary": "Samsung Electronics extended its record run with second-quarter operating profit",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows - Reuters",
-      "summary": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows  Reuters",
+      "title": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Houthis, sources say - Reuters",
+      "summary": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Hout",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
     "advancers": 0,
-    "decliners": 0,
-    "sentiment": "市场涨跌互现，表现分化。"
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
