@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-08-03",
-  "generated_at": "2026-08-03T04:26:45",
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T04:09:26",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 28446.99,
-      "close": 28274.2,
-      "high": 28606.78,
-      "low": 27954.24,
-      "change_pct": 0.6,
-      "change_5d": 0.52,
+      "open": NaN,
+      "close": NaN,
+      "high": NaN,
+      "low": NaN,
+      "change_pct": NaN,
+      "change_5d": NaN,
       "change_mtd": 0.0,
-      "date": "2026-07-31",
+      "date": "2026-08-03",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7462.13,
-      "close": 7489.72,
-      "high": 7512.04,
-      "low": 7399.83,
-      "change_pct": 0.7,
-      "change_5d": 1.05,
+      "open": NaN,
+      "close": NaN,
+      "high": NaN,
+      "low": NaN,
+      "change_pct": NaN,
+      "change_5d": NaN,
       "change_mtd": 0.0,
-      "date": "2026-07-31",
+      "date": "2026-08-03",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52235.03,
-      "close": 52485.03,
-      "high": 52623.14,
-      "low": 51996.32,
-      "change_pct": 0.53,
-      "change_5d": 1.04,
+      "open": NaN,
+      "close": NaN,
+      "high": NaN,
+      "low": NaN,
+      "change_pct": NaN,
+      "change_5d": NaN,
       "change_mtd": 0.0,
-      "date": "2026-07-31",
+      "date": "2026-08-03",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-      "summary": "Best earnings of last night belongs to Club name Starbucks. Plus, updates on Met",
+      "title": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
+      "summary": "Cramer said Amazon CEO Andy Jassy finally explained how Amazon's massive AI spen",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Fed keeps rates steady. The big question now: What will Microsoft and Meta say on AI capex?",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable aftern",
+      "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
+      "summary": "Wall Street rallies, Dow closes at record on Iran talks optimism  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-      "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginnin",
+      "title": "Index snub to test Indian bonds; rupee, RBI policy and US-Iran war in focus - Reuters",
+      "summary": "Index snub to test Indian bonds; rupee, RBI policy and US-Iran war in focus  Reu",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
+    "advancers": 0,
     "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "sentiment": "市场涨跌互现，表现分化。"
   },
   "sources": [
     "Yahoo Finance",
