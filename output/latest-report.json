@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-08-06",
-  "generated_at": "2026-08-07T03:46:59",
+  "date": "2026-08-07",
+  "generated_at": "2026-08-10T03:09:16",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29224.38,
-      "close": 29373.33,
-      "high": 29569.76,
-      "low": 29123.38,
-      "change_pct": -0.39,
-      "change_5d": 4.51,
-      "change_mtd": 2.07,
-      "date": "2026-08-06",
+      "open": 29596.45,
+      "close": 29722.3,
+      "high": 29747.15,
+      "low": 29452.71,
+      "change_pct": 1.19,
+      "change_5d": 5.12,
+      "change_mtd": 3.29,
+      "date": "2026-08-07",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7713.79,
-      "close": 7709.96,
-      "high": 7742.85,
-      "low": 7698.15,
-      "change_pct": -0.18,
-      "change_5d": 3.66,
-      "change_mtd": 1.44,
-      "date": "2026-08-06",
+      "open": 7735.18,
+      "close": 7757.64,
+      "high": 7763.08,
+      "low": 7719.19,
+      "change_pct": 0.62,
+      "change_5d": 3.58,
+      "change_mtd": 2.07,
+      "date": "2026-08-07",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 54426.85,
-      "close": 53885.1,
-      "high": 54502.87,
-      "low": 53835.02,
-      "change_pct": -0.85,
-      "change_5d": 3.21,
-      "change_mtd": 1.33,
-      "date": "2026-08-06",
+      "open": 53849.26,
+      "close": 54036.93,
+      "high": 54094.65,
+      "low": 53807.94,
+      "change_pct": 0.28,
+      "change_5d": 2.96,
+      "change_mtd": 1.61,
+      "date": "2026-08-07",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "European shares extend run of record highs on earnings, US-Iran optimism - Reuters",
-      "summary": "European shares extend run of record highs on earnings, US-Iran optimism  Reuter",
+      "title": "US stocks, bonds rally after soft jobs report; yen bounces back - Reuters",
+      "summary": "US stocks, bonds rally after soft jobs report; yen bounces back  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Jim Cramer highlights 5 investing themes — and the stocks to buy for each",
-      "summary": "CNBC’s Jim Cramer said earnings season reinforced five investing themes he think",
+      "title": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz - Reuters",
+      "summary": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz  Re",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Gulf shipping traffic down after Houthis say they attacked Saudi tanker - Reuters",
-      "summary": "Gulf shipping traffic down after Houthis say they attacked Saudi tanker  Reuters",
+      "title": "US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report - Reuters",
+      "summary": "US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters r",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 3,
+    "decliners": 0,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
