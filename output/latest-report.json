@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-08-11",
-  "generated_at": "2026-08-12T03:21:00",
+  "date": "2026-08-12",
+  "generated_at": "2026-08-13T03:24:36",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29694.7,
-      "close": 29525.48,
-      "high": 29705.8,
-      "low": 29427.61,
-      "change_pct": -0.33,
-      "change_5d": -0.7,
-      "change_mtd": 2.6,
-      "date": "2026-08-11",
+      "open": 29875.18,
+      "close": 29742.6,
+      "high": 29881.5,
+      "low": 29715.88,
+      "change_pct": 0.74,
+      "change_5d": 0.86,
+      "change_mtd": 3.36,
+      "date": "2026-08-12",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7767.51,
-      "close": 7728.2,
-      "high": 7767.51,
-      "low": 7717.25,
-      "change_pct": -0.32,
-      "change_5d": -0.11,
-      "change_mtd": 1.68,
-      "date": "2026-08-11",
+      "open": 7765.46,
+      "close": 7748.5,
+      "high": 7766.01,
+      "low": 7737.95,
+      "change_pct": 0.26,
+      "change_5d": 0.32,
+      "change_mtd": 1.95,
+      "date": "2026-08-12",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 53961.6,
-      "close": 53791.85,
-      "high": 54222.85,
-      "low": 53746.43,
-      "change_pct": -0.34,
-      "change_5d": -0.54,
-      "change_mtd": 1.15,
-      "date": "2026-08-11",
+      "open": 53797.47,
+      "close": 53770.3,
+      "high": 53969.36,
+      "low": 53731.96,
+      "change_pct": -0.04,
+      "change_5d": -1.07,
+      "change_mtd": 1.11,
+      "date": "2026-08-12",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
-      "summary": "Wall Street ends down as US-Iran peace optimism fades  Reuters",
+      "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
+      "summary": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower deman",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil prices continue climb on US-Iran deal doubts; stocks retreat - Reuters",
-      "summary": "Oil prices continue climb on US-Iran deal doubts; stocks retreat  Reuters",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "summary": "The July CPI report matched expectations, and CoreWeave's earnings report shows ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil prices settle up as Iran says Strait of Hormuz to stay shut - Reuters",
-      "summary": "Oil prices settle up as Iran says Strait of Hormuz to stay shut  Reuters",
+      "title": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
+      "summary": "CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 2,
+    "decliners": 1,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
