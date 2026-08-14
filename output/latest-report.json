@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-08-12",
-  "generated_at": "2026-08-13T03:24:36",
+  "date": "2026-08-13",
+  "generated_at": "2026-08-14T03:22:05",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29875.18,
-      "close": 29742.6,
-      "high": 29881.5,
-      "low": 29715.88,
-      "change_pct": 0.74,
-      "change_5d": 0.86,
-      "change_mtd": 3.36,
-      "date": "2026-08-12",
+      "open": 29784.06,
+      "close": 30084.5,
+      "high": 30168.05,
+      "low": 29757.62,
+      "change_pct": 1.15,
+      "change_5d": 2.42,
+      "change_mtd": 4.54,
+      "date": "2026-08-13",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7765.46,
-      "close": 7748.5,
-      "high": 7766.01,
-      "low": 7737.95,
-      "change_pct": 0.26,
-      "change_5d": 0.32,
-      "change_mtd": 1.95,
-      "date": "2026-08-12",
+      "open": 7763.18,
+      "close": 7798.99,
+      "high": 7816.7,
+      "low": 7763.18,
+      "change_pct": 0.65,
+      "change_5d": 1.15,
+      "change_mtd": 2.61,
+      "date": "2026-08-13",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 53797.47,
-      "close": 53770.3,
-      "high": 53969.36,
-      "low": 53731.96,
-      "change_pct": -0.04,
-      "change_5d": -1.07,
-      "change_mtd": 1.11,
-      "date": "2026-08-12",
+      "open": 53828.55,
+      "close": 53840.0,
+      "high": 54049.14,
+      "low": 53622.46,
+      "change_pct": 0.13,
+      "change_5d": -0.08,
+      "change_mtd": 1.24,
+      "date": "2026-08-13",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
-      "summary": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower deman",
+      "title": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
+      "summary": "Are global oil stocks big enough to weather another six months of US-Iran war?  ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "summary": "The July CPI report matched expectations, and CoreWeave's earnings report shows ",
+      "title": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
+      "summary": "Iran, US make competing claims over control of Strait of Hormuz  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
-      "summary": "CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "summary": "Cisco shares fell on earnings, and the July producer price index was mostly cool",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 2,
-    "decliners": 1,
+    "advancers": 3,
+    "decliners": 0,
     "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
