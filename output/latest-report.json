@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-08-13",
-  "generated_at": "2026-08-14T03:22:05",
+  "date": "2026-08-14",
+  "generated_at": "2026-08-17T02:17:53",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29784.06,
-      "close": 30084.5,
-      "high": 30168.05,
-      "low": 29757.62,
-      "change_pct": 1.15,
-      "change_5d": 2.42,
-      "change_mtd": 4.54,
-      "date": "2026-08-13",
+      "open": 30167.13,
+      "close": 30046.14,
+      "high": 30179.82,
+      "low": 29934.66,
+      "change_pct": -0.13,
+      "change_5d": 1.09,
+      "change_mtd": 4.41,
+      "date": "2026-08-14",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7763.18,
-      "close": 7798.99,
-      "high": 7816.7,
-      "low": 7763.18,
-      "change_pct": 0.65,
-      "change_5d": 1.15,
-      "change_mtd": 2.61,
-      "date": "2026-08-13",
+      "open": 7806.6,
+      "close": 7785.76,
+      "high": 7810.01,
+      "low": 7776.31,
+      "change_pct": -0.17,
+      "change_5d": 0.36,
+      "change_mtd": 2.44,
+      "date": "2026-08-14",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 53828.55,
-      "close": 53840.0,
-      "high": 54049.14,
-      "low": 53622.46,
-      "change_pct": 0.13,
-      "change_5d": -0.08,
-      "change_mtd": 1.24,
-      "date": "2026-08-13",
+      "open": 53842.8,
+      "close": 53732.41,
+      "high": 53890.84,
+      "low": 53673.47,
+      "change_pct": -0.2,
+      "change_5d": -0.56,
+      "change_mtd": 1.04,
+      "date": "2026-08-14",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
-      "summary": "Are global oil stocks big enough to weather another six months of US-Iran war?  ",
+      "title": "European shares snap 4-week rally as higher oil prices temper strong earnings - Reuters",
+      "summary": "European shares snap 4-week rally as higher oil prices temper strong earnings  R",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
-      "summary": "Iran, US make competing claims over control of Strait of Hormuz  Reuters",
+      "title": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
+      "summary": "US could not verify Israeli warnings of Iran plots against Trump, sources say  R",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-      "summary": "Cisco shares fell on earnings, and the July producer price index was mostly cool",
+      "title": "Hormuz shipping traffic capped amid competing claims from US and Iran - Reuters",
+      "summary": "Hormuz shipping traffic capped amid competing claims from US and Iran  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
