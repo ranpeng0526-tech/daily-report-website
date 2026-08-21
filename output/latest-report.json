@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-08-19",
-  "generated_at": "2026-08-20T02:14:52",
+  "date": "2026-08-20",
+  "generated_at": "2026-08-21T02:21:43",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29580.85,
-      "close": 29426.02,
-      "high": 29652.29,
-      "low": 29288.75,
-      "change_pct": -0.22,
-      "change_5d": -1.06,
-      "change_mtd": 2.26,
-      "date": "2026-08-19",
+      "open": 29295.15,
+      "close": 29213.16,
+      "high": 29378.8,
+      "low": 29118.07,
+      "change_pct": -0.72,
+      "change_5d": -2.9,
+      "change_mtd": 1.52,
+      "date": "2026-08-20",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7716.74,
-      "close": 7707.98,
-      "high": 7743.93,
-      "low": 7700.07,
-      "change_pct": 0.21,
-      "change_5d": -0.52,
-      "change_mtd": 1.41,
-      "date": "2026-08-19",
+      "open": 7690.49,
+      "close": 7641.16,
+      "high": 7699.96,
+      "low": 7639.01,
+      "change_pct": -0.87,
+      "change_5d": -2.02,
+      "change_mtd": 0.53,
+      "date": "2026-08-20",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 53463.47,
-      "close": 53463.05,
-      "high": 53710.06,
-      "low": 53399.53,
-      "change_pct": 0.22,
-      "change_5d": -0.57,
-      "change_mtd": 0.54,
-      "date": "2026-08-19",
+      "open": 53381.22,
+      "close": 52759.21,
+      "high": 53381.22,
+      "low": 52754.9,
+      "change_pct": -1.32,
+      "change_5d": -2.01,
+      "change_mtd": -0.79,
+      "date": "2026-08-20",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "US stock futures steady after tech slump; investors focus on Middle East tensions - Reuters",
-      "summary": "US stock futures steady after tech slump; investors focus on Middle East tension",
+      "title": "Hormuz shipping unchanged amid US-Iran stalemate, data shows - Reuters",
+      "summary": "Hormuz shipping unchanged amid US-Iran stalemate, data shows  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "summary": "Moderna is soaring after promising results for its cancer vaccine. Plus, Target ",
+      "title": "Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate - Reuters",
+      "summary": "Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to coop",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil prices settle near 4-week high as Middle East crisis escalates - Reuters",
-      "summary": "Oil prices settle near 4-week high as Middle East crisis escalates  Reuters",
+      "title": "Micron CEO pushes back on memory bear case. 3 key takeaways from Cramer's big interview",
+      "summary": "Jim Cramer's extended interview with the CEO made us more confident in our newes",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 2,
-    "decliners": 1,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
