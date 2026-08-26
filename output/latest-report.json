@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-08-24",
-  "generated_at": "2026-08-25T02:16:14",
+  "date": "2026-08-25",
+  "generated_at": "2026-08-26T02:22:45",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29094.72,
-      "close": 29023.18,
-      "high": 29151.97,
-      "low": 28875.96,
-      "change_pct": -0.97,
-      "change_5d": -3.24,
-      "change_mtd": 0.86,
-      "date": "2026-08-24",
+      "open": 29231.18,
+      "close": 29209.23,
+      "high": 29338.77,
+      "low": 29077.72,
+      "change_pct": 0.64,
+      "change_5d": -0.96,
+      "change_mtd": 1.5,
+      "date": "2026-08-25",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7663.38,
-      "close": 7652.86,
-      "high": 7670.3,
-      "low": 7638.17,
-      "change_pct": -0.28,
-      "change_5d": -1.19,
-      "change_mtd": 0.69,
-      "date": "2026-08-24",
+      "open": 7676.66,
+      "close": 7677.28,
+      "high": 7686.11,
+      "low": 7650.92,
+      "change_pct": 0.32,
+      "change_5d": -0.19,
+      "change_mtd": 1.01,
+      "date": "2026-08-25",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 53261.95,
-      "close": 53417.16,
-      "high": 53508.18,
-      "low": 53261.95,
-      "change_pct": 0.26,
-      "change_5d": -0.08,
-      "change_mtd": 0.45,
-      "date": "2026-08-24",
+      "open": 53594.92,
+      "close": 53577.4,
+      "high": 53675.32,
+      "low": 53386.37,
+      "change_pct": 0.3,
+      "change_5d": 0.44,
+      "change_mtd": 0.75,
+      "date": "2026-08-25",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Here's what Jim Cramer says stock investors need to know about the bond market",
-      "summary": "Cramer said investors should watch long-term Treasury yields, which have surged ",
+      "title": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz - Reuters",
+      "summary": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz  Reu",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
-      "summary": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves  Reuters",
+      "title": "European shares gain on softer US Iran sanctions, falling oil prices - Reuters",
+      "summary": "European shares gain on softer US Iran sanctions, falling oil prices  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "summary": "Nvidia reports earnings this week, but it's not the only thing that matters to t",
+      "title": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more - Reuters",
+      "summary": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more  Reut",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 1,
-    "decliners": 2,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 3,
+    "decliners": 0,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
