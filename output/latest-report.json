@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T10:52:10",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T12:27:46",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29130.77,
-      "close": 29224.52,
-      "high": 29296.77,
-      "low": 29096.84,
-      "change_pct": 0.05,
-      "change_5d": -0.68,
-      "change_mtd": 1.56,
-      "date": "2026-08-26",
+      "open": 29480.99,
+      "close": 29641.56,
+      "high": 29643.53,
+      "low": 29366.42,
+      "change_pct": 1.43,
+      "change_5d": 1.47,
+      "change_mtd": 3.01,
+      "date": "2026-08-27",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7666.88,
-      "close": 7675.7,
-      "high": 7690.73,
-      "low": 7657.41,
-      "change_pct": -0.02,
-      "change_5d": -0.42,
-      "change_mtd": 0.99,
-      "date": "2026-08-26",
+      "open": 7710.34,
+      "close": 7730.99,
+      "high": 7741.27,
+      "low": 7689.89,
+      "change_pct": 0.72,
+      "change_5d": 1.18,
+      "change_mtd": 1.72,
+      "date": "2026-08-27",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 53547.68,
-      "close": 53463.88,
-      "high": 53639.75,
-      "low": 53379.4,
-      "change_pct": -0.21,
-      "change_5d": 0.0,
-      "change_mtd": 0.54,
-      "date": "2026-08-26",
+      "open": 53613.66,
+      "close": 53569.44,
+      "high": 53707.62,
+      "low": 53345.62,
+      "change_pct": 0.2,
+      "change_5d": 1.54,
+      "change_mtd": 0.74,
+      "date": "2026-08-27",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "OPEC+ loses oil market sway in Iran war as China gains influence - Reuters",
-      "summary": "OPEC+ loses oil market sway in Iran war as China gains influence  Reuters",
+      "title": "U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare",
+      "summary": "The U.S. has shifted to a campaign of economic warfare, after a dozen waves of a",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Shipping traffic through Strait of Hormuz rises slightly, data shows - Reuters",
-      "summary": "Shipping traffic through Strait of Hormuz rises slightly, data shows  Reuters",
+      "title": "Iran war mediators focus on reopening Strait of Hormuz - Reuters",
+      "summary": "Iran war mediators focus on reopening Strait of Hormuz  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Six months of war: How the Middle East conflict has shaped financial markets - Reuters",
-      "summary": "Six months of war: How the Middle East conflict has shaped financial markets  Re",
+      "title": "Oil holds steady, on track for weekly fall on US-Iran talks stalemate - Reuters",
+      "summary": "Oil holds steady, on track for weekly fall on US-Iran talks stalemate  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 1,
-    "decliners": 2,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 3,
+    "decliners": 0,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
