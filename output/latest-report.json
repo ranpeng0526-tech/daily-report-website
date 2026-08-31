@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-08-28",
-  "generated_at": "2026-08-28T12:27:46",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T06:36:03",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29480.99,
-      "close": 29641.56,
-      "high": 29643.53,
-      "low": 29366.42,
-      "change_pct": 1.43,
-      "change_5d": 1.47,
-      "change_mtd": 3.01,
-      "date": "2026-08-27",
+      "open": 29545.9,
+      "close": 29433.43,
+      "high": 29752.78,
+      "low": 29383.92,
+      "change_pct": -0.7,
+      "change_5d": 0.43,
+      "change_mtd": 2.28,
+      "date": "2026-08-28",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7710.34,
-      "close": 7730.99,
-      "high": 7741.27,
-      "low": 7689.89,
-      "change_pct": 0.72,
-      "change_5d": 1.18,
-      "change_mtd": 1.72,
-      "date": "2026-08-27",
+      "open": 7735.17,
+      "close": 7711.76,
+      "high": 7771.48,
+      "low": 7700.91,
+      "change_pct": -0.25,
+      "change_5d": 0.49,
+      "change_mtd": 1.46,
+      "date": "2026-08-28",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 53613.66,
-      "close": 53569.44,
-      "high": 53707.62,
-      "low": 53345.62,
-      "change_pct": 0.2,
-      "change_5d": 1.54,
-      "change_mtd": 0.74,
-      "date": "2026-08-27",
+      "open": 53611.94,
+      "close": 53559.99,
+      "high": 53819.65,
+      "low": 53489.41,
+      "change_pct": -0.02,
+      "change_5d": 0.53,
+      "change_mtd": 0.72,
+      "date": "2026-08-28",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare",
-      "summary": "The U.S. has shifted to a campaign of economic warfare, after a dozen waves of a",
+      "title": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details - Reuters",
+      "summary": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details  R",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Iran war mediators focus on reopening Strait of Hormuz - Reuters",
-      "summary": "Iran war mediators focus on reopening Strait of Hormuz  Reuters",
+      "title": "Shares skid in Asia as oil climbs, yields stay high - Reuters",
+      "summary": "Shares skid in Asia as oil climbs, yields stay high  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil holds steady, on track for weekly fall on US-Iran talks stalemate - Reuters",
-      "summary": "Oil holds steady, on track for weekly fall on US-Iran talks stalemate  Reuters",
+      "title": "Iran’s army says it attacked UAE’s Al Minhad Air Base with drones, state TV reports - Reuters",
+      "summary": "Iran’s army says it attacked UAE’s Al Minhad Air Base with drones, state TV repo",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
