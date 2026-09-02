@@ -1,64 +1,64 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T05:59:23",
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T05:23:43",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29404.29,
-      "close": 29456.97,
-      "high": 29483.9,
-      "low": 29304.49,
-      "change_pct": -0.62,
-      "change_5d": 0.51,
+      "open": 29056.58,
+      "close": 29077.22,
+      "high": 29267.42,
+      "low": 28953.26,
+      "change_pct": -1.29,
+      "change_5d": -0.45,
       "change_mtd": 0.0,
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7697.52,
-      "close": 7686.14,
-      "high": 7697.52,
-      "low": 7665.06,
-      "change_pct": -0.58,
-      "change_5d": 0.15,
+      "open": 7635.47,
+      "close": 7631.47,
+      "high": 7663.63,
+      "low": 7611.2,
+      "change_pct": -0.71,
+      "change_5d": -0.6,
       "change_mtd": 0.0,
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 53462.6,
-      "close": 53185.9,
-      "high": 53462.6,
-      "low": 53123.62,
-      "change_pct": -0.72,
-      "change_5d": -0.17,
+      "open": 53083.58,
+      "close": 52766.88,
+      "high": 53176.6,
+      "low": 52691.31,
+      "change_pct": -0.79,
+      "change_5d": -1.51,
       "change_mtd": 0.0,
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "A look at Iran's Kharg Island and energy sector - Reuters",
-      "summary": "A look at Iran's Kharg Island and energy sector  Reuters",
+      "title": "PODCAST: US-Iran strikes, Meta's AI layoff plan, and bear break-ins - Reuters",
+      "summary": "PODCAST: US-Iran strikes, Meta's AI layoff plan, and bear break-ins  Reuters",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
+    {
+      "title": "Yields rise, stocks ease, with oil gaining as US and Iran resume military attacks - Reuters",
+      "summary": "Yields rise, stocks ease, with oil gaining as US and Iran resume military attack",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
       "title": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil - Reuters",
       "summary": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turm",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
-    },
-    {
-      "title": "Trump was sending message to Iran with Kharg Island post, says Vance - Reuters",
-      "summary": "Trump was sending message to Iran with Kharg Island post, says Vance  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
