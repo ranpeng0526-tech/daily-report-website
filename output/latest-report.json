@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-04",
-  "generated_at": "2026-09-04T05:24:57",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T05:37:58",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29234.42,
-      "close": 29482.32,
-      "high": 29538.76,
-      "low": 29160.96,
-      "change_pct": 1.16,
-      "change_5d": -0.54,
-      "change_mtd": 1.39,
-      "date": "2026-09-03",
+      "open": 29539.57,
+      "close": 29544.15,
+      "high": 29655.22,
+      "low": 29440.15,
+      "change_pct": 0.21,
+      "change_5d": 0.38,
+      "change_mtd": 1.61,
+      "date": "2026-09-04",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7686.71,
-      "close": 7747.71,
-      "high": 7756.76,
-      "low": 7686.71,
-      "change_pct": 1.06,
-      "change_5d": 0.22,
-      "change_mtd": 1.52,
-      "date": "2026-09-03",
+      "open": 7750.19,
+      "close": 7718.6,
+      "high": 7750.19,
+      "low": 7706.12,
+      "change_pct": -0.38,
+      "change_5d": 0.09,
+      "change_mtd": 1.14,
+      "date": "2026-09-04",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 53309.17,
-      "close": 53686.11,
-      "high": 53746.5,
-      "low": 53286.15,
-      "change_pct": 1.18,
-      "change_5d": 0.22,
-      "change_mtd": 1.74,
-      "date": "2026-09-03",
+      "open": 53584.89,
+      "close": 53414.25,
+      "high": 53635.35,
+      "low": 53289.88,
+      "change_pct": -0.51,
+      "change_5d": -0.27,
+      "change_mtd": 1.23,
+      "date": "2026-09-04",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes - Reuters",
-      "summary": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes  Reuter",
+      "title": "US military strikes three Iranian crude oil carriers, Central Command says - Reuters",
+      "summary": "US military strikes three Iranian crude oil carriers, Central Command says  Reut",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil prices mixed as investors weigh Middle East escalation, chance of Russia-Ukraine peace deal - Reuters",
-      "summary": "Oil prices mixed as investors weigh Middle East escalation, chance of Russia-Ukr",
+      "title": "Hormuz traffic dips to lowest since May after US, Iranian strikes on ships - Reuters",
+      "summary": "Hormuz traffic dips to lowest since May after US, Iranian strikes on ships  Reut",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "US-Iran strikes raise fears of renewed war across the Middle East - Reuters",
-      "summary": "US-Iran strikes raise fears of renewed war across the Middle East  Reuters",
+      "title": "Iran's Hormuz leverage wanes as US economic squeeze bites - Reuters",
+      "summary": "Iran's Hormuz leverage wanes as US economic squeeze bites  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 1,
+    "decliners": 2,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
