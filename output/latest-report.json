@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-08",
-  "generated_at": "2026-09-08T05:33:52",
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T05:40:56",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29539.57,
-      "close": 29544.15,
-      "high": 29655.22,
-      "low": 29440.15,
-      "change_pct": 0.21,
-      "change_5d": 0.38,
-      "change_mtd": 1.61,
-      "date": "2026-09-04",
+      "open": 29645.18,
+      "close": 29507.7,
+      "high": 29655.73,
+      "low": 29400.7,
+      "change_pct": -0.12,
+      "change_5d": 0.17,
+      "change_mtd": 1.48,
+      "date": "2026-09-08",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7750.19,
-      "close": 7718.6,
-      "high": 7750.19,
-      "low": 7706.12,
-      "change_pct": -0.38,
-      "change_5d": 0.09,
-      "change_mtd": 1.14,
-      "date": "2026-09-04",
+      "open": 7717.81,
+      "close": 7673.52,
+      "high": 7717.81,
+      "low": 7666.99,
+      "change_pct": -0.58,
+      "change_5d": -0.16,
+      "change_mtd": 0.55,
+      "date": "2026-09-08",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 53584.89,
-      "close": 53414.25,
-      "high": 53635.35,
-      "low": 53289.88,
-      "change_pct": -0.51,
-      "change_5d": -0.27,
-      "change_mtd": 1.23,
-      "date": "2026-09-04",
+      "open": 53110.45,
+      "close": 52786.07,
+      "high": 53110.45,
+      "low": 52721.62,
+      "change_pct": -1.18,
+      "change_5d": -0.75,
+      "change_mtd": 0.04,
+      "date": "2026-09-08",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Iran threatens US with new 'economic warfare' and missiles as Houthis attack Saudi Arabia - Reuters",
-      "summary": "Iran threatens US with new 'economic warfare' and missiles as Houthis attack Sau",
+      "title": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate - Reuters",
+      "summary": "Oil heads for $100, Asia stocks subdued as Middle East tensions escalate  Reuter",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Indian shares on track for muted open as oil climbs on rising Mideast risks - Reuters",
-      "summary": "Indian shares on track for muted open as oil climbs on rising Mideast risks  Reu",
+      "title": "Indian shares eye muted start as oil climbs on intensifying Mideast tensions - Reuters",
+      "summary": "Indian shares eye muted start as oil climbs on intensifying Mideast tensions  Re",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "COMMENTARY: China's crude oil imports stayed weak in August. Can this continue? - Reuters",
-      "summary": "COMMENTARY: China's crude oil imports stayed weak in August. Can this continue? ",
+      "title": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk - Reuters",
+      "summary": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 1,
-    "decliners": 2,
+    "advancers": 0,
+    "decliners": 3,
     "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
