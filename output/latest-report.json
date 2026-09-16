@@ -1,49 +1,55 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T05:44:55",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T05:36:06",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 28890.93,
-      "close": 29127.16,
-      "high": 29285.5,
-      "low": 28867.67,
-      "change_pct": -0.82,
-      "change_5d": -1.41,
-      "change_mtd": 0.17,
-      "date": "2026-09-14",
+      "open": 29100.16,
+      "close": 28937.84,
+      "high": 29142.8,
+      "low": 28899.43,
+      "change_pct": -0.65,
+      "change_5d": -1.93,
+      "change_mtd": -0.48,
+      "date": "2026-09-15",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7611.44,
-      "close": 7619.98,
-      "high": 7647.99,
-      "low": 7592.28,
-      "change_pct": -0.48,
-      "change_5d": -1.28,
-      "change_mtd": -0.15,
-      "date": "2026-09-14",
+      "open": 7612.3,
+      "close": 7585.73,
+      "high": 7617.26,
+      "low": 7572.69,
+      "change_pct": -0.45,
+      "change_5d": -1.14,
+      "change_mtd": -0.6,
+      "date": "2026-09-15",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52750.88,
-      "close": 52421.2,
-      "high": 52750.88,
-      "low": 52278.89,
-      "change_pct": -0.29,
-      "change_5d": -1.86,
-      "change_mtd": -0.66,
-      "date": "2026-09-14",
+      "open": 52303.24,
+      "close": 52093.11,
+      "high": 52336.61,
+      "low": 51875.65,
+      "change_pct": -0.63,
+      "change_5d": -1.31,
+      "change_mtd": -1.28,
+      "date": "2026-09-15",
       "error": ""
     }
   ],
   "top_news": [
+    {
+      "title": "AI restraint debate boosts outlook for Indian tech stocks",
+      "summary": "Shares of companies seen as vulnerable to AI disruption rose globally on Monday,",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
     {
       "title": "Here are our top 10 things to watch in the stock market Monday",
       "summary": "AI semiconductor and infrastructure stocks are under heavy pressure ahead of Mon",
@@ -51,14 +57,8 @@
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "AI stocks tumble on safety warnings. How to proceed — including 2 names on our shopping list",
-      "summary": "Jim Cramer offers a roadmap to navigate Monday's sell-off in AI stocks.",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
-    },
-    {
-      "title": "Trump downplays report China entities helped Iran before attack that killed US troops - Reuters",
-      "summary": "Trump downplays report China entities helped Iran before attack that killed US t",
+      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping - Reuters",
+      "summary": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping  Reute",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
