@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T05:30:09",
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T05:50:06",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29401.54,
-      "close": 29446.98,
-      "high": 29494.95,
-      "low": 29305.9,
-      "change_pct": 1.73,
-      "change_5d": 1.18,
-      "change_mtd": 1.27,
-      "date": "2026-09-17",
+      "open": 29529.64,
+      "close": 29644.17,
+      "high": 29647.8,
+      "low": 29371.89,
+      "change_pct": 0.67,
+      "change_5d": 0.94,
+      "change_mtd": 1.95,
+      "date": "2026-09-18",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7631.44,
-      "close": 7637.76,
-      "high": 7646.86,
-      "low": 7611.81,
-      "change_pct": 1.14,
-      "change_5d": 0.61,
-      "change_mtd": 0.08,
-      "date": "2026-09-17",
+      "open": 7657.17,
+      "close": 7650.5,
+      "high": 7657.17,
+      "low": 7610.52,
+      "change_pct": 0.17,
+      "change_5d": -0.08,
+      "change_mtd": 0.25,
+      "date": "2026-09-18",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51882.53,
-      "close": 51778.04,
-      "high": 51935.97,
-      "low": 51607.65,
-      "change_pct": 0.61,
-      "change_5d": -0.55,
-      "change_mtd": -1.87,
-      "date": "2026-09-17",
+      "open": 51826.78,
+      "close": 51682.64,
+      "high": 51826.78,
+      "low": 51497.47,
+      "change_pct": -0.18,
+      "change_5d": -1.69,
+      "change_mtd": -2.05,
+      "date": "2026-09-18",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say - Reuters",
+      "title": "Saudis and Houthis exchange strikes, Yemenis flee by boat as Middle East war spreads - reuters.com",
+      "summary": "Saudis and Houthis exchange strikes, Yemenis flee by boat as Middle East war spr",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
+    {
+      "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say - reuters.com",
       "summary": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, source",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Bitcoin comes under renewed pressure as looming Fed hike adds to woes",
-      "summary": "Clarity Act, a crypto regulatory bill in the US, fails to progress in the Senate",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
-    },
-    {
-      "title": "US officials met Iran-backed Houthis in Oman over the weekend, sources say - Reuters",
-      "summary": "US officials met Iran-backed Houthis in Oman over the weekend, sources say  Reut",
+      "title": "Indian shares open muted as high oil prices, IPO rush weigh - reuters.com",
+      "summary": "Indian shares open muted as high oil prices, IPO rush weigh  reuters.com",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
+    "advancers": 2,
+    "decliners": 1,
     "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
