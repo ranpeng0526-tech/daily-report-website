@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21T05:50:06",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T05:48:05",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29529.64,
-      "close": 29644.17,
-      "high": 29647.8,
-      "low": 29371.89,
-      "change_pct": 0.67,
-      "change_5d": 0.94,
-      "change_mtd": 1.95,
-      "date": "2026-09-18",
+      "open": 29947.16,
+      "close": 30482.35,
+      "high": 30557.34,
+      "low": 29933.22,
+      "change_pct": 2.83,
+      "change_5d": 4.65,
+      "change_mtd": 4.83,
+      "date": "2026-09-21",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7657.17,
-      "close": 7650.5,
-      "high": 7657.17,
-      "low": 7610.52,
-      "change_pct": 0.17,
-      "change_5d": -0.08,
-      "change_mtd": 0.25,
-      "date": "2026-09-18",
+      "open": 7692.83,
+      "close": 7764.7,
+      "high": 7779.22,
+      "low": 7691.19,
+      "change_pct": 1.49,
+      "change_5d": 1.9,
+      "change_mtd": 1.75,
+      "date": "2026-09-21",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51826.78,
-      "close": 51682.64,
-      "high": 51826.78,
-      "low": 51497.47,
-      "change_pct": -0.18,
-      "change_5d": -1.69,
-      "change_mtd": -2.05,
-      "date": "2026-09-18",
+      "open": 51936.76,
+      "close": 52048.83,
+      "high": 52128.58,
+      "low": 51747.68,
+      "change_pct": 0.71,
+      "change_5d": -0.71,
+      "change_mtd": -1.36,
+      "date": "2026-09-21",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Saudis and Houthis exchange strikes, Yemenis flee by boat as Middle East war spreads - reuters.com",
-      "summary": "Saudis and Houthis exchange strikes, Yemenis flee by boat as Middle East war spr",
+      "title": "Indian shares likely to open higher on easing oil prices, bond yields - Reuters",
+      "summary": "Indian shares likely to open higher on easing oil prices, bond yields  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say - reuters.com",
-      "summary": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, source",
+      "title": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat - Reuters",
+      "summary": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields ret",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Indian shares open muted as high oil prices, IPO rush weigh - reuters.com",
-      "summary": "Indian shares open muted as high oil prices, IPO rush weigh  reuters.com",
+      "title": "Oil price dips to $100 on hopes of US-Iran diplomacy, partial recovery in Saudi exports - Reuters",
+      "summary": "Oil price dips to $100 on hopes of US-Iran diplomacy, partial recovery in Saudi ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 2,
-    "decliners": 1,
+    "advancers": 3,
+    "decliners": 0,
     "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
