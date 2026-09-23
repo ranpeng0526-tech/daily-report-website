@@ -1,52 +1,58 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-22",
-  "generated_at": "2026-09-22T05:48:05",
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T05:27:43",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29947.16,
-      "close": 30482.35,
-      "high": 30557.34,
-      "low": 29933.22,
-      "change_pct": 2.83,
-      "change_5d": 4.65,
-      "change_mtd": 4.83,
-      "date": "2026-09-21",
+      "open": NaN,
+      "close": NaN,
+      "high": NaN,
+      "low": NaN,
+      "change_pct": NaN,
+      "change_5d": NaN,
+      "change_mtd": NaN,
+      "date": "2026-09-22",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7692.83,
-      "close": 7764.7,
-      "high": 7779.22,
-      "low": 7691.19,
-      "change_pct": 1.49,
-      "change_5d": 1.9,
-      "change_mtd": 1.75,
-      "date": "2026-09-21",
+      "open": NaN,
+      "close": NaN,
+      "high": NaN,
+      "low": NaN,
+      "change_pct": NaN,
+      "change_5d": NaN,
+      "change_mtd": NaN,
+      "date": "2026-09-22",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51936.76,
-      "close": 52048.83,
-      "high": 52128.58,
-      "low": 51747.68,
-      "change_pct": 0.71,
-      "change_5d": -0.71,
-      "change_mtd": -1.36,
-      "date": "2026-09-21",
+      "open": NaN,
+      "close": NaN,
+      "high": NaN,
+      "low": NaN,
+      "change_pct": NaN,
+      "change_5d": NaN,
+      "change_mtd": NaN,
+      "date": "2026-09-22",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Indian shares likely to open higher on easing oil prices, bond yields - Reuters",
-      "summary": "Indian shares likely to open higher on easing oil prices, bond yields  Reuters",
+      "title": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours",
+      "summary": "The bullish sentiment comes despite calls to slow down AI model development and ",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
+    {
+      "title": "Bitcoin retreats from eight-month high after dizzying 13% rally",
+      "summary": "Falling oil prices and optimism ahead of a summit between US President Donald Tr",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
@@ -55,18 +61,12 @@
       "summary": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields ret",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
-    },
-    {
-      "title": "Oil price dips to $100 on hopes of US-Iran diplomacy, partial recovery in Saudi exports - Reuters",
-      "summary": "Oil price dips to $100 on hopes of US-Iran diplomacy, partial recovery in Saudi ",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
+    "advancers": 0,
     "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "sentiment": "市场涨跌互现，表现分化。"
   },
   "sources": [
     "Yahoo Finance",
