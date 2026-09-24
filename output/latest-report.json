@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-23",
-  "generated_at": "2026-09-23T05:27:43",
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T05:48:43",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
-      "date": "2026-09-22",
+      "open": 30706.23,
+      "close": 30470.29,
+      "high": 30706.23,
+      "low": 30353.88,
+      "change_pct": -0.04,
+      "change_5d": 5.3,
+      "change_mtd": 4.79,
+      "date": "2026-09-23",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
-      "date": "2026-09-22",
+      "open": 7761.94,
+      "close": 7706.03,
+      "high": 7761.94,
+      "low": 7694.89,
+      "change_pct": -0.76,
+      "change_5d": 1.59,
+      "change_mtd": 0.98,
+      "date": "2026-09-23",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": NaN,
-      "close": NaN,
-      "high": NaN,
-      "low": NaN,
-      "change_pct": NaN,
-      "change_5d": NaN,
-      "change_mtd": NaN,
-      "date": "2026-09-22",
+      "open": 51771.41,
+      "close": 51511.59,
+      "high": 51846.81,
+      "low": 51477.53,
+      "change_pct": -1.03,
+      "change_5d": -1.12,
+      "change_mtd": -2.38,
+      "date": "2026-09-23",
       "error": ""
     }
   ],
   "top_news": [
     {
+      "title": "Wall Street ends down as oil prices, Treasury yields rise - Reuters",
+      "summary": "Wall Street ends down as oil prices, Treasury yields rise  Reuters",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
+    {
+      "title": "European stocks slip as lack of progress on US-Iran peace lifts oil, yields - reuters.com",
+      "summary": "European stocks slip as lack of progress on US-Iran peace lifts oil, yields  reu",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
+    {
       "title": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours",
       "summary": "The bullish sentiment comes despite calls to slow down AI model development and ",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
-    },
-    {
-      "title": "Bitcoin retreats from eight-month high after dizzying 13% rally",
-      "summary": "Falling oil prices and optimism ahead of a summit between US President Donald Tr",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
-    },
-    {
-      "title": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields retreat - Reuters",
-      "summary": "Wall Street ends sharply higher as AI optimism reignites and Treasury yields ret",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
     "advancers": 0,
-    "decliners": 0,
-    "sentiment": "市场涨跌互现，表现分化。"
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
