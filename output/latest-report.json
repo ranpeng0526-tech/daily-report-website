@@ -1,45 +1,45 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T05:48:43",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T05:43:57",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30706.23,
-      "close": 30470.29,
-      "high": 30706.23,
-      "low": 30353.88,
-      "change_pct": -0.04,
+      "open": 30225.19,
+      "close": 30478.86,
+      "high": 30529.35,
+      "low": 30204.16,
+      "change_pct": 0.03,
       "change_5d": 5.3,
-      "change_mtd": 4.79,
-      "date": "2026-09-23",
+      "change_mtd": 4.82,
+      "date": "2026-09-24",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7761.94,
-      "close": 7706.03,
-      "high": 7761.94,
-      "low": 7694.89,
-      "change_pct": -0.76,
-      "change_5d": 1.59,
-      "change_mtd": 0.98,
-      "date": "2026-09-23",
+      "open": 7666.99,
+      "close": 7704.13,
+      "high": 7719.01,
+      "low": 7662.57,
+      "change_pct": -0.02,
+      "change_5d": 2.02,
+      "change_mtd": 0.95,
+      "date": "2026-09-24",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51771.41,
-      "close": 51511.59,
-      "high": 51846.81,
-      "low": 51477.53,
-      "change_pct": -1.03,
-      "change_5d": -1.12,
-      "change_mtd": -2.38,
-      "date": "2026-09-23",
+      "open": 51415.75,
+      "close": 51349.98,
+      "high": 51485.97,
+      "low": 51124.02,
+      "change_pct": -0.31,
+      "change_5d": -0.22,
+      "change_mtd": -2.69,
+      "date": "2026-09-24",
       "error": ""
     }
   ],
@@ -51,21 +51,21 @@
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "European stocks slip as lack of progress on US-Iran peace lifts oil, yields - reuters.com",
-      "summary": "European stocks slip as lack of progress on US-Iran peace lifts oil, yields  reu",
+      "title": "US sanctions Iranian financier's crypto exchange, says it processes Hormuz payments - Reuters",
+      "summary": "US sanctions Iranian financier's crypto exchange, says it processes Hormuz payme",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours",
-      "summary": "The bullish sentiment comes despite calls to slow down AI model development and ",
+      "title": "New US sanctions shut down Iranian flights - Reuters",
+      "summary": "New US sanctions shut down Iranian flights  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
+    "advancers": 1,
+    "decliners": 2,
     "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
