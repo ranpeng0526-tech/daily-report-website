@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25T05:43:57",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T06:16:44",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30225.19,
-      "close": 30478.86,
-      "high": 30529.35,
-      "low": 30204.16,
-      "change_pct": 0.03,
-      "change_5d": 5.3,
-      "change_mtd": 4.82,
-      "date": "2026-09-24",
+      "open": 30517.46,
+      "close": 30608.13,
+      "high": 30667.56,
+      "low": 30413.59,
+      "change_pct": 0.42,
+      "change_5d": 3.25,
+      "change_mtd": 5.26,
+      "date": "2026-09-25",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7666.99,
-      "close": 7704.13,
-      "high": 7719.01,
-      "low": 7662.57,
-      "change_pct": -0.02,
-      "change_5d": 2.02,
-      "change_mtd": 0.95,
-      "date": "2026-09-24",
+      "open": 7709.86,
+      "close": 7743.41,
+      "high": 7752.07,
+      "low": 7693.08,
+      "change_pct": 0.51,
+      "change_5d": 1.21,
+      "change_mtd": 1.47,
+      "date": "2026-09-25",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51415.75,
-      "close": 51349.98,
-      "high": 51485.97,
-      "low": 51124.02,
-      "change_pct": -0.31,
-      "change_5d": -0.22,
-      "change_mtd": -2.69,
-      "date": "2026-09-24",
+      "open": 51359.7,
+      "close": 51828.62,
+      "high": 51874.94,
+      "low": 51339.24,
+      "change_pct": 0.93,
+      "change_5d": 0.28,
+      "change_mtd": -1.78,
+      "date": "2026-09-25",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Wall Street ends down as oil prices, Treasury yields rise - Reuters",
-      "summary": "Wall Street ends down as oil prices, Treasury yields rise  Reuters",
+      "title": "Indian shares hit near six-month low as US-Iran deadlock lifts oil prices - Reuters",
+      "summary": "Indian shares hit near six-month low as US-Iran deadlock lifts oil prices  Reute",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "US sanctions Iranian financier's crypto exchange, says it processes Hormuz payments - Reuters",
-      "summary": "US sanctions Iranian financier's crypto exchange, says it processes Hormuz payme",
+      "title": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build - Reuters",
+      "summary": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "New US sanctions shut down Iranian flights - Reuters",
-      "summary": "New US sanctions shut down Iranian flights  Reuters",
+      "title": "Stocks slip in Asia as oil climbs, bonds retreat - Reuters",
+      "summary": "Stocks slip in Asia as oil climbs, bonds retreat  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 1,
-    "decliners": 2,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 3,
+    "decliners": 0,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
