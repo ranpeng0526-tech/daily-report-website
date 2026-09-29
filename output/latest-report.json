@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-28",
-  "generated_at": "2026-09-28T06:16:44",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T06:32:33",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30517.46,
-      "close": 30608.13,
-      "high": 30667.56,
-      "low": 30413.59,
-      "change_pct": 0.42,
-      "change_5d": 3.25,
-      "change_mtd": 5.26,
-      "date": "2026-09-25",
+      "open": 30426.63,
+      "close": 30276.81,
+      "high": 30480.4,
+      "low": 30081.06,
+      "change_pct": -1.08,
+      "change_5d": -0.67,
+      "change_mtd": 4.13,
+      "date": "2026-09-28",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7709.86,
-      "close": 7743.41,
-      "high": 7752.07,
-      "low": 7693.08,
-      "change_pct": 0.51,
-      "change_5d": 1.21,
-      "change_mtd": 1.47,
-      "date": "2026-09-25",
+      "open": 7721.7,
+      "close": 7683.69,
+      "high": 7724.15,
+      "low": 7666.6,
+      "change_pct": -0.77,
+      "change_5d": -1.04,
+      "change_mtd": 0.68,
+      "date": "2026-09-28",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51359.7,
-      "close": 51828.62,
-      "high": 51874.94,
-      "low": 51339.24,
-      "change_pct": 0.93,
-      "change_5d": 0.28,
-      "change_mtd": -1.78,
-      "date": "2026-09-25",
+      "open": 51648.48,
+      "close": 51481.51,
+      "high": 51780.5,
+      "low": 51409.65,
+      "change_pct": -0.67,
+      "change_5d": -1.09,
+      "change_mtd": -2.44,
+      "date": "2026-09-28",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Indian shares hit near six-month low as US-Iran deadlock lifts oil prices - Reuters",
-      "summary": "Indian shares hit near six-month low as US-Iran deadlock lifts oil prices  Reute",
+      "title": "Stocks fall as higher oil prices, Treasury yields weigh - Reuters",
+      "summary": "Stocks fall as higher oil prices, Treasury yields weigh  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build - Reuters",
-      "summary": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build  Reuters",
+      "title": "Indian shares slide to near six-month low as US-Iran deadlock lifts oil prices - Reuters",
+      "summary": "Indian shares slide to near six-month low as US-Iran deadlock lifts oil prices  ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Stocks slip in Asia as oil climbs, bonds retreat - Reuters",
-      "summary": "Stocks slip in Asia as oil climbs, bonds retreat  Reuters",
+      "title": "How Trump’s diesel ban threat is making US exports more profitable",
+      "summary": "Europe is desperate for diesel after the Iran war led to a swath of lost supply ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
