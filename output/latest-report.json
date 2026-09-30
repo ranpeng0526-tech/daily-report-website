@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T06:32:33",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T06:15:36",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30426.63,
-      "close": 30276.81,
-      "high": 30480.4,
-      "low": 30081.06,
-      "change_pct": -1.08,
-      "change_5d": -0.67,
-      "change_mtd": 4.13,
-      "date": "2026-09-28",
+      "open": 30412.29,
+      "close": 30339.33,
+      "high": 30429.97,
+      "low": 30235.66,
+      "change_pct": 0.21,
+      "change_5d": -1.28,
+      "change_mtd": 4.34,
+      "date": "2026-09-29",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7721.7,
-      "close": 7683.69,
-      "high": 7724.15,
-      "low": 7666.6,
-      "change_pct": -0.77,
-      "change_5d": -1.04,
-      "change_mtd": 0.68,
-      "date": "2026-09-28",
+      "open": 7699.6,
+      "close": 7670.84,
+      "high": 7699.6,
+      "low": 7653.55,
+      "change_pct": -0.17,
+      "change_5d": -1.21,
+      "change_mtd": 0.52,
+      "date": "2026-09-29",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51648.48,
-      "close": 51481.51,
-      "high": 51780.5,
-      "low": 51409.65,
-      "change_pct": -0.67,
-      "change_5d": -1.09,
-      "change_mtd": -2.44,
-      "date": "2026-09-28",
+      "open": 51416.96,
+      "close": 51349.92,
+      "high": 51505.19,
+      "low": 51129.18,
+      "change_pct": -0.26,
+      "change_5d": -0.99,
+      "change_mtd": -2.69,
+      "date": "2026-09-29",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Stocks fall as higher oil prices, Treasury yields weigh - Reuters",
-      "summary": "Stocks fall as higher oil prices, Treasury yields weigh  Reuters",
+      "title": "Indian shares open flat after foreign outflows - Reuters",
+      "summary": "Indian shares open flat after foreign outflows  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Indian shares slide to near six-month low as US-Iran deadlock lifts oil prices - Reuters",
-      "summary": "Indian shares slide to near six-month low as US-Iran deadlock lifts oil prices  ",
+      "title": "Oil gains after Trump denies he is willing to ease sanctions on Iran - Reuters",
+      "summary": "Oil gains after Trump denies he is willing to ease sanctions on Iran  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "How Trump’s diesel ban threat is making US exports more profitable",
-      "summary": "Europe is desperate for diesel after the Iran war led to a swath of lost supply ",
+      "title": "Iran appeals to US voters as American troops leave Iraq - Reuters",
+      "summary": "Iran appeals to US voters as American troops leave Iraq  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
+    "advancers": 1,
+    "decliners": 2,
     "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
