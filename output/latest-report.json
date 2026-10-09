@@ -1,52 +1,52 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T06:57:37",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T07:05:59",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30976.25,
-      "close": 31160.08,
-      "high": 31170.12,
-      "low": 30904.46,
-      "change_pct": -0.21,
-      "change_5d": 2.47,
-      "change_mtd": 2.16,
-      "date": "2026-10-07",
+      "open": 30985.23,
+      "close": 30725.81,
+      "high": 31125.13,
+      "low": 30556.4,
+      "change_pct": -1.39,
+      "change_5d": 0.74,
+      "change_mtd": 0.74,
+      "date": "2026-10-08",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7792.98,
-      "close": 7801.77,
-      "high": 7807.02,
-      "low": 7763.34,
-      "change_pct": -0.22,
-      "change_5d": 1.96,
-      "change_mtd": 1.77,
-      "date": "2026-10-07",
+      "open": 7778.45,
+      "close": 7765.36,
+      "high": 7797.79,
+      "low": 7731.26,
+      "change_pct": -0.47,
+      "change_5d": 1.29,
+      "change_mtd": 1.29,
+      "date": "2026-10-08",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51406.44,
-      "close": 51179.87,
-      "high": 51406.44,
-      "low": 50917.42,
-      "change_pct": -0.66,
-      "change_5d": 0.54,
-      "change_mtd": 0.5,
-      "date": "2026-10-07",
+      "open": 51105.04,
+      "close": 51231.64,
+      "high": 51245.28,
+      "low": 50939.0,
+      "change_pct": 0.1,
+      "change_5d": 0.6,
+      "change_mtd": 0.6,
+      "date": "2026-10-08",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "US EIA hikes oil price forecasts again as Iran war drains global stockpile - Reuters",
-      "summary": "US EIA hikes oil price forecasts again as Iran war drains global stockpile  Reut",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "summary": "We've got higher oil prices and interest rates to deal with this morning.",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
@@ -64,8 +64,8 @@
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
+    "advancers": 1,
+    "decliners": 2,
     "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
