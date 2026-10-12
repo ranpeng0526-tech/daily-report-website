@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T07:05:59",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T06:53:49",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30985.23,
-      "close": 30725.81,
-      "high": 31125.13,
-      "low": 30556.4,
-      "change_pct": -1.39,
-      "change_5d": 0.74,
-      "change_mtd": 0.74,
-      "date": "2026-10-08",
+      "open": 30900.06,
+      "close": 30883.15,
+      "high": 30946.74,
+      "low": 30770.05,
+      "change_pct": 0.51,
+      "change_5d": 0.24,
+      "change_mtd": 1.25,
+      "date": "2026-10-09",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7778.45,
-      "close": 7765.36,
-      "high": 7797.79,
-      "low": 7731.26,
-      "change_pct": -0.47,
-      "change_5d": 1.29,
-      "change_mtd": 1.29,
-      "date": "2026-10-08",
+      "open": 7786.36,
+      "close": 7811.54,
+      "high": 7820.57,
+      "low": 7779.34,
+      "change_pct": 0.59,
+      "change_5d": 1.15,
+      "change_mtd": 1.89,
+      "date": "2026-10-09",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51105.04,
-      "close": 51231.64,
-      "high": 51245.28,
-      "low": 50939.0,
-      "change_pct": 0.1,
-      "change_5d": 0.6,
-      "change_mtd": 0.6,
-      "date": "2026-10-08",
+      "open": 51258.95,
+      "close": 51654.95,
+      "high": 51765.11,
+      "low": 51258.95,
+      "change_pct": 0.83,
+      "change_5d": 0.93,
+      "change_mtd": 1.43,
+      "date": "2026-10-09",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-      "summary": "We've got higher oil prices and interest rates to deal with this morning.",
+      "title": "Wall Street’s rate shock spreads beneath AI-fueled market rally",
+      "summary": "Bonds surge as rates spike and oil stays high, testing AI-driven stock resilienc",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll - Reuters",
-      "summary": "Oil price volatility tops list of earnings risks for Japan firms: Reuters poll  ",
+      "title": "Treasury yields steady as Trump strikes diplomatic tone on Iran ahead of midterms",
+      "summary": "Yields were largely unchanged Friday as investors assessed President Trump's lat",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "SpaceX’s plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock",
-      "summary": "SpaceX shows that companies are making a return on their AI compute investments,",
+      "title": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh - Reuters",
+      "summary": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 1,
-    "decliners": 2,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 3,
+    "decliners": 0,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
