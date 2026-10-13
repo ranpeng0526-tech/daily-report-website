@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T06:53:49",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T07:18:59",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30900.06,
-      "close": 30883.15,
-      "high": 30946.74,
-      "low": 30770.05,
-      "change_pct": 0.51,
-      "change_5d": 0.24,
-      "change_mtd": 1.25,
-      "date": "2026-10-09",
+      "open": 30796.04,
+      "close": 30664.7,
+      "high": 30813.96,
+      "low": 30618.64,
+      "change_pct": -0.71,
+      "change_5d": -1.32,
+      "change_mtd": 0.53,
+      "date": "2026-10-12",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7786.36,
-      "close": 7811.54,
-      "high": 7820.57,
-      "low": 7779.34,
-      "change_pct": 0.59,
-      "change_5d": 1.15,
-      "change_mtd": 1.89,
-      "date": "2026-10-09",
+      "open": 7813.04,
+      "close": 7807.24,
+      "high": 7821.67,
+      "low": 7796.94,
+      "change_pct": -0.06,
+      "change_5d": 0.43,
+      "change_mtd": 1.84,
+      "date": "2026-10-12",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51258.95,
-      "close": 51654.95,
-      "high": 51765.11,
-      "low": 51258.95,
-      "change_pct": 0.83,
-      "change_5d": 0.93,
-      "change_mtd": 1.43,
-      "date": "2026-10-09",
+      "open": 51765.35,
+      "close": 51850.55,
+      "high": 51928.1,
+      "low": 51718.6,
+      "change_pct": 0.38,
+      "change_5d": 1.14,
+      "change_mtd": 1.81,
+      "date": "2026-10-12",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Wall Street’s rate shock spreads beneath AI-fueled market rally",
-      "summary": "Bonds surge as rates spike and oil stays high, testing AI-driven stock resilienc",
+      "title": "Trump says he does not believe China and Russia are helping Iran 'at all' - Reuters",
+      "summary": "Trump says he does not believe China and Russia are helping Iran 'at all'  Reute",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Treasury yields steady as Trump strikes diplomatic tone on Iran ahead of midterms",
-      "summary": "Yields were largely unchanged Friday as investors assessed President Trump's lat",
+      "title": "Indian shares flat at open as inflation strengthens rate-hike concerns - Reuters",
+      "summary": "Indian shares flat at open as inflation strengthens rate-hike concerns  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh - Reuters",
-      "summary": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh  Reuters",
+      "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters",
+      "summary": "AI investment props up global growth, but war and debt threaten outlook, IMF say",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 1,
+    "decliners": 2,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
