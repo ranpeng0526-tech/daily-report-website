@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T07:18:59",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T05:44:54",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30796.04,
-      "close": 30664.7,
-      "high": 30813.96,
-      "low": 30618.64,
-      "change_pct": -0.71,
-      "change_5d": -1.32,
-      "change_mtd": 0.53,
-      "date": "2026-10-12",
+      "open": 30404.2,
+      "close": 30569.48,
+      "high": 30595.8,
+      "low": 30372.3,
+      "change_pct": -0.31,
+      "change_5d": -2.1,
+      "change_mtd": 0.22,
+      "date": "2026-10-13",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7813.04,
-      "close": 7807.24,
-      "high": 7821.67,
-      "low": 7796.94,
-      "change_pct": -0.06,
-      "change_5d": 0.43,
-      "change_mtd": 1.84,
-      "date": "2026-10-12",
+      "open": 7795.27,
+      "close": 7805.45,
+      "high": 7814.15,
+      "low": 7786.11,
+      "change_pct": -0.02,
+      "change_5d": -0.17,
+      "change_mtd": 1.81,
+      "date": "2026-10-13",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51765.35,
-      "close": 51850.55,
-      "high": 51928.1,
-      "low": 51718.6,
-      "change_pct": 0.38,
-      "change_5d": 1.14,
-      "change_mtd": 1.81,
-      "date": "2026-10-12",
+      "open": 52092.99,
+      "close": 51670.1,
+      "high": 52317.32,
+      "low": 51587.67,
+      "change_pct": -0.35,
+      "change_5d": 0.29,
+      "change_mtd": 1.46,
+      "date": "2026-10-13",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Trump says he does not believe China and Russia are helping Iran 'at all' - Reuters",
-      "summary": "Trump says he does not believe China and Russia are helping Iran 'at all'  Reute",
+      "title": "US chip stocks extend slide as China memory report, AI spending jitters hit sector - Reuters",
+      "summary": "US chip stocks extend slide as China memory report, AI spending jitters hit sect",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Indian shares flat at open as inflation strengthens rate-hike concerns - Reuters",
-      "summary": "Indian shares flat at open as inflation strengthens rate-hike concerns  Reuters",
+      "title": "MI5 chief lists Iran, Russia, AI and terrorists among threats to UK - Reuters",
+      "summary": "MI5 chief lists Iran, Russia, AI and terrorists among threats to UK  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters",
-      "summary": "AI investment props up global growth, but war and debt threaten outlook, IMF say",
+      "title": "Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says - Reuters",
+      "summary": "Iran and Russia are stepping up hybrid campaigns in Britain, UK spy chief says  ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 1,
-    "decliners": 2,
+    "advancers": 0,
+    "decliners": 3,
     "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
