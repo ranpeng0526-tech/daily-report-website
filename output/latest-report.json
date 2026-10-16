@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T05:31:01",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T05:22:29",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 30316.03,
-      "close": 29950.82,
-      "high": 30436.6,
-      "low": 29861.06,
-      "change_pct": -2.02,
-      "change_5d": -3.88,
-      "change_mtd": -1.81,
-      "date": "2026-10-14",
+      "open": 29526.71,
+      "close": 29935.6,
+      "high": 29985.62,
+      "low": 29408.41,
+      "change_pct": -0.05,
+      "change_5d": -2.57,
+      "change_mtd": -1.86,
+      "date": "2026-10-15",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7774.18,
-      "close": 7718.94,
-      "high": 7789.15,
-      "low": 7693.31,
-      "change_pct": -1.11,
-      "change_5d": -1.06,
-      "change_mtd": 0.68,
-      "date": "2026-10-14",
+      "open": 7687.31,
+      "close": 7744.06,
+      "high": 7754.15,
+      "low": 7669.66,
+      "change_pct": 0.33,
+      "change_5d": -0.27,
+      "change_mtd": 1.01,
+      "date": "2026-10-15",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51684.75,
-      "close": 51621.48,
-      "high": 51869.75,
-      "low": 51365.42,
-      "change_pct": -0.09,
-      "change_5d": 0.86,
-      "change_mtd": 1.36,
-      "date": "2026-10-14",
+      "open": 51858.06,
+      "close": 52177.69,
+      "high": 52250.18,
+      "low": 51681.37,
+      "change_pct": 1.08,
+      "change_5d": 1.85,
+      "change_mtd": 2.46,
+      "date": "2026-10-15",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "US chip stocks extend slide as China memory report, AI spending jitters hit sector - Reuters",
-      "summary": "US chip stocks extend slide as China memory report, AI spending jitters hit sect",
+      "title": "Threats by Yemen's Houthis to hit Saudi Arabia again rattle Gulf bourses - Reuters",
+      "summary": "Threats by Yemen's Houthis to hit Saudi Arabia again rattle Gulf bourses  Reuter",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Gulf markets mixed; Saudi stocks hardest hit on Aramco attack - Reuters",
-      "summary": "Gulf markets mixed; Saudi stocks hardest hit on Aramco attack  Reuters",
+      "title": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point - Reuters",
+      "summary": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point  Reuter",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil prices settle mixed, focus on US-Russia diesel deal, Saudi Yemen attacks - Reuters",
-      "summary": "Oil prices settle mixed, focus on US-Russia diesel deal, Saudi Yemen attacks  Re",
+      "title": "US Treasury pushes global partners to rename AI as 'super intelligence' - Reuters",
+      "summary": "US Treasury pushes global partners to rename AI as 'super intelligence'  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 2,
+    "decliners": 1,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
