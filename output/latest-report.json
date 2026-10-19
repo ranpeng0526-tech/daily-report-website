@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T05:22:29",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T05:39:12",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29526.71,
-      "close": 29935.6,
-      "high": 29985.62,
-      "low": 29408.41,
-      "change_pct": -0.05,
-      "change_5d": -2.57,
-      "change_mtd": -1.86,
-      "date": "2026-10-15",
+      "open": 29797.1,
+      "close": 29187.55,
+      "high": 29822.91,
+      "low": 29073.29,
+      "change_pct": -2.5,
+      "change_5d": -5.49,
+      "change_mtd": -4.31,
+      "date": "2026-10-16",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7687.31,
-      "close": 7744.06,
-      "high": 7754.15,
-      "low": 7669.66,
-      "change_pct": 0.33,
-      "change_5d": -0.27,
-      "change_mtd": 1.01,
-      "date": "2026-10-15",
+      "open": 7745.32,
+      "close": 7659.44,
+      "high": 7756.84,
+      "low": 7631.77,
+      "change_pct": -1.09,
+      "change_5d": -1.95,
+      "change_mtd": -0.09,
+      "date": "2026-10-16",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51858.06,
-      "close": 52177.69,
-      "high": 52250.18,
-      "low": 51681.37,
-      "change_pct": 1.08,
-      "change_5d": 1.85,
-      "change_mtd": 2.46,
-      "date": "2026-10-15",
+      "open": 52308.28,
+      "close": 52002.41,
+      "high": 52582.32,
+      "low": 51847.94,
+      "change_pct": -0.34,
+      "change_5d": 0.67,
+      "change_mtd": 2.11,
+      "date": "2026-10-16",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Threats by Yemen's Houthis to hit Saudi Arabia again rattle Gulf bourses - Reuters",
-      "summary": "Threats by Yemen's Houthis to hit Saudi Arabia again rattle Gulf bourses  Reuter",
+      "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+      "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point - Reuters",
-      "summary": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point  Reuter",
+      "title": "Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis - Reuters",
+      "summary": "Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis  Reuter",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "US Treasury pushes global partners to rename AI as 'super intelligence' - Reuters",
-      "summary": "US Treasury pushes global partners to rename AI as 'super intelligence'  Reuters",
+      "title": "AI trade reversal pierces Asia’s star picks-and-shovels stocks",
+      "summary": "The pressure intensified last week as oil surged to $110 a barrel for the first ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 2,
-    "decliners": 1,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
