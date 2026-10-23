@@ -1,49 +1,55 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T05:42:53",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T05:41:47",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29707.0,
-      "close": 29822.52,
-      "high": 29928.31,
-      "low": 29593.7,
-      "change_pct": 1.13,
-      "change_5d": -0.43,
-      "change_mtd": -2.23,
-      "date": "2026-10-21",
+      "open": 29304.3,
+      "close": 28958.69,
+      "high": 29411.76,
+      "low": 28855.1,
+      "change_pct": -2.9,
+      "change_5d": -3.26,
+      "change_mtd": -5.06,
+      "date": "2026-10-22",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7736.43,
-      "close": 7757.17,
-      "high": 7770.4,
-      "low": 7709.34,
-      "change_pct": 0.58,
-      "change_5d": 0.5,
-      "change_mtd": 1.18,
-      "date": "2026-10-21",
+      "open": 7694.62,
+      "close": 7663.43,
+      "high": 7702.94,
+      "low": 7637.36,
+      "change_pct": -1.21,
+      "change_5d": -1.04,
+      "change_mtd": -0.04,
+      "date": "2026-10-22",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52652.85,
-      "close": 52856.09,
-      "high": 52860.11,
-      "low": 52392.28,
-      "change_pct": 0.69,
-      "change_5d": 2.39,
-      "change_mtd": 3.79,
-      "date": "2026-10-21",
+      "open": 52788.41,
+      "close": 52867.98,
+      "high": 52927.88,
+      "low": 52508.38,
+      "change_pct": 0.02,
+      "change_5d": 1.32,
+      "change_mtd": 3.81,
+      "date": "2026-10-22",
       "error": ""
     }
   ],
   "top_news": [
+    {
+      "title": "A lesson from poker tells us not to fold on Meta after its earnings sell-off. Here’s why",
+      "summary": "Meta's in-house AI lab is not getting enough credit on Wall Street.",
+      "impact": "未知",
+      "reason": "AI 分析暂不可用，请手动运行"
+    },
     {
       "title": "Oil prices steady as investors weigh geopolitics, lower US stockpiles - Reuters",
       "summary": "Oil prices steady as investors weigh geopolitics, lower US stockpiles  Reuters",
@@ -51,22 +57,16 @@
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions - Reuters",
-      "summary": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions ",
-      "impact": "未知",
-      "reason": "AI 分析暂不可用，请手动运行"
-    },
-    {
-      "title": "Obsessed with CoreWeave and the AI trade? You're missing out on some great stocks",
-      "summary": "Today's earnings show there's a cohort of the market that can thrive outside of ",
+      "title": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia - Reuters",
+      "summary": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 1,
+    "decliners": 2,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
