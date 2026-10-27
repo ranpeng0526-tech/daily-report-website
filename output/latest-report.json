@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T05:43:44",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T05:56:27",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 28847.82,
-      "close": 28957.53,
-      "high": 29161.03,
-      "low": 28825.72,
-      "change_pct": -0.0,
-      "change_5d": -0.79,
-      "change_mtd": -5.06,
-      "date": "2026-10-23",
+      "open": 29051.58,
+      "close": 29273.4,
+      "high": 29404.44,
+      "low": 29011.91,
+      "change_pct": 1.09,
+      "change_5d": -0.87,
+      "change_mtd": -4.03,
+      "date": "2026-10-26",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7637.18,
-      "close": 7623.68,
-      "high": 7660.15,
-      "low": 7612.07,
-      "change_pct": -0.52,
-      "change_5d": -0.47,
-      "change_mtd": -0.56,
-      "date": "2026-10-23",
+      "open": 7639.7,
+      "close": 7676.77,
+      "high": 7702.13,
+      "low": 7639.7,
+      "change_pct": 0.7,
+      "change_5d": -0.18,
+      "change_mtd": 0.13,
+      "date": "2026-10-26",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52696.7,
-      "close": 52215.16,
-      "high": 52696.7,
-      "low": 52055.1,
-      "change_pct": -1.23,
-      "change_5d": 0.41,
-      "change_mtd": 2.53,
-      "date": "2026-10-23",
+      "open": 52320.45,
+      "close": 52361.58,
+      "high": 52620.19,
+      "low": 52263.25,
+      "change_pct": 0.28,
+      "change_5d": 0.76,
+      "change_mtd": 2.82,
+      "date": "2026-10-26",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "EXCLUSIVE: How purchases of sanctioned Iranian jet fuel were disguised by Myanmar - Reuters",
-      "summary": "EXCLUSIVE: How purchases of sanctioned Iranian jet fuel were disguised by Myanma",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "summary": "Meta Platforms is looking to raise $95 billion to fund its massive AI infrastruc",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say - Reuters",
-      "summary": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on M",
+      "title": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran - Reuters",
+      "summary": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Houthis say they attacked East-West oil pumping stations; No Saudi confirmation - Reuters",
-      "summary": "Houthis say they attacked East-West oil pumping stations; No Saudi confirmation ",
+      "title": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies - Reuters",
+      "summary": "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 1,
-    "decliners": 2,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 3,
+    "decliners": 0,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
