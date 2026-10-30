@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T06:42:52",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T06:44:09",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 29732.04,
-      "close": 29813.16,
-      "high": 29848.71,
-      "low": 29618.42,
-      "change_pct": 0.55,
-      "change_5d": -0.03,
-      "change_mtd": -2.26,
-      "date": "2026-10-28",
+      "open": 29421.18,
+      "close": 29402.51,
+      "high": 29517.8,
+      "low": 29257.05,
+      "change_pct": -1.38,
+      "change_5d": 1.53,
+      "change_mtd": -3.6,
+      "date": "2026-10-29",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7735.56,
-      "close": 7743.98,
-      "high": 7758.43,
-      "low": 7718.37,
-      "change_pct": 0.28,
-      "change_5d": -0.17,
-      "change_mtd": 1.01,
-      "date": "2026-10-28",
+      "open": 7699.61,
+      "close": 7720.39,
+      "high": 7732.21,
+      "low": 7690.94,
+      "change_pct": -0.3,
+      "change_5d": 0.74,
+      "change_mtd": 0.7,
+      "date": "2026-10-29",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52335.43,
-      "close": 52475.1,
-      "high": 52634.32,
-      "low": 52335.43,
-      "change_pct": 0.19,
-      "change_5d": -0.72,
-      "change_mtd": 3.04,
-      "date": "2026-10-28",
+      "open": 52086.13,
+      "close": 52342.56,
+      "high": 52405.88,
+      "low": 52086.13,
+      "change_pct": -0.25,
+      "change_5d": -0.99,
+      "change_mtd": 2.78,
+      "date": "2026-10-29",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Oil prices fall as peace hopes offset fears of growing Middle East conflict - Reuters",
-      "summary": "Oil prices fall as peace hopes offset fears of growing Middle East conflict  Reu",
+      "title": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
+      "summary": "The noted investor, famous from \"The Big Short,\" says it would be \"impossible\" f",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
-      "summary": "With the Club portfolio now down to 31 positions, we are working on new ideas to",
+      "title": "Jim Cramer: Why investors are punishing Alphabet and giving Microsoft a pass",
+      "summary": "Microsoft is faring better because of its financial spending, Jim Cramer said Th",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Israel's high-turnout vote brushed aside in rest of the Middle East - Reuters",
-      "summary": "Israel's high-turnout vote brushed aside in rest of the Middle East  Reuters",
+      "title": "Iran’s hidden web of military agencies is slipping hardware past the US blockade - Reuters",
+      "summary": "Iran’s hidden web of military agencies is slipping hardware past the US blockade",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
