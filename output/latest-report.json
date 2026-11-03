@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T07:09:05",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:30:30",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 28604.91,
-      "close": 28384.85,
-      "high": 28713.45,
-      "low": 28093.24,
-      "change_pct": -3.46,
-      "change_5d": -1.98,
+      "open": 28561.17,
+      "close": 27989.82,
+      "high": 28753.39,
+      "low": 27967.44,
+      "change_pct": -1.39,
+      "change_5d": -4.38,
       "change_mtd": 0.0,
-      "date": "2026-10-30",
+      "date": "2026-11-02",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7631.07,
-      "close": 7580.07,
-      "high": 7637.48,
-      "low": 7527.56,
-      "change_pct": -1.82,
-      "change_5d": -0.57,
+      "open": 7610.83,
+      "close": 7541.4,
+      "high": 7662.23,
+      "low": 7539.38,
+      "change_pct": -0.51,
+      "change_5d": -1.76,
       "change_mtd": 0.0,
-      "date": "2026-10-30",
+      "date": "2026-11-02",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52383.9,
-      "close": 51770.31,
-      "high": 52383.9,
-      "low": 51563.76,
-      "change_pct": -1.09,
-      "change_5d": -0.85,
+      "open": 52008.23,
+      "close": 51983.98,
+      "high": 52424.91,
+      "low": 51981.66,
+      "change_pct": 0.41,
+      "change_5d": -0.72,
       "change_mtd": 0.0,
-      "date": "2026-10-30",
+      "date": "2026-11-02",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Oil prices ease 3% on optimism for Qatari-led talks on ending Iran war - Reuters",
-      "summary": "Oil prices ease 3% on optimism for Qatari-led talks on ending Iran war  Reuters",
+      "title": "Oil edges up after report of US strike on Iran's Qeshm Island - Reuters",
+      "summary": "Oil edges up after report of US strike on Iran's Qeshm Island  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag - Reuters",
-      "summary": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels la",
+      "title": "US carries out 'defensive' strikes on Iran's Qeshm Island, officials say - Reuters",
+      "summary": "US carries out 'defensive' strikes on Iran's Qeshm Island, officials say  Reuter",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Indian shares rise on Iran war talks, Reliance earnings beat - Reuters",
-      "summary": "Indian shares rise on Iran war talks, Reliance earnings beat  Reuters",
+      "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+      "summary": "Oracle filed plans on Monday to issue stock new shares and more debt to finance ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
+    "advancers": 1,
+    "decliners": 2,
     "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
