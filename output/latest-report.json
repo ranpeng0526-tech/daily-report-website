@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T07:12:19",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T07:39:12",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 28085.5,
-      "close": 28180.26,
-      "high": 28307.9,
-      "low": 28085.5,
-      "change_pct": 0.68,
-      "change_5d": -4.96,
-      "change_mtd": 0.68,
-      "date": "2026-11-03",
+      "open": 28346.81,
+      "close": 28437.17,
+      "high": 28829.66,
+      "low": 28276.22,
+      "change_pct": 0.91,
+      "change_5d": -4.62,
+      "change_mtd": 1.6,
+      "date": "2026-11-04",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7552.92,
-      "close": 7568.92,
-      "high": 7594.61,
-      "low": 7545.39,
-      "change_pct": 0.36,
-      "change_5d": -1.99,
-      "change_mtd": 0.36,
-      "date": "2026-11-03",
+      "open": 7635.81,
+      "close": 7688.62,
+      "high": 7715.57,
+      "low": 7635.81,
+      "change_pct": 1.58,
+      "change_5d": -0.71,
+      "change_mtd": 1.95,
+      "date": "2026-11-04",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51932.63,
-      "close": 51786.72,
-      "high": 51932.63,
-      "low": 51593.16,
-      "change_pct": -0.38,
-      "change_5d": -1.13,
-      "change_mtd": -0.38,
-      "date": "2026-11-03",
+      "open": 52410.23,
+      "close": 53356.12,
+      "high": 53492.4,
+      "low": 52410.23,
+      "change_pct": 3.03,
+      "change_5d": 1.68,
+      "change_mtd": 2.64,
+      "date": "2026-11-04",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Oil rises on Iran war uncertainty after Trump's Republicans face election rout - Reuters",
-      "summary": "Oil rises on Iran war uncertainty after Trump's Republicans face election rout  ",
+      "title": "Indian benchmarks near three-month highs as oil slides after US Democratic win - Reuters",
+      "summary": "Indian benchmarks near three-month highs as oil slides after US Democratic win  ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Chris Pappas holds New Hampshire US Senate seat for Democrats - Reuters",
-      "summary": "Chris Pappas holds New Hampshire US Senate seat for Democrats  Reuters",
+      "title": "Rupee to rally after US midterm fallout sinks oil on Iran war-exit hopes - Reuters",
+      "summary": "Rupee to rally after US midterm fallout sinks oil on Iran war-exit hopes  Reuter",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Gold rises as dollar weakens; Democrats score early wins in US midterm elections - Reuters",
-      "summary": "Gold rises as dollar weakens; Democrats score early wins in US midterm elections",
+      "title": "Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz - Reuters",
+      "summary": "Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz  Reuter",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 2,
-    "decliners": 1,
+    "advancers": 3,
+    "decliners": 0,
     "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
