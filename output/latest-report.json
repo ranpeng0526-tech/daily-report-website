@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T07:39:12",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T07:37:06",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 28346.81,
-      "close": 28437.17,
-      "high": 28829.66,
-      "low": 28276.22,
-      "change_pct": 0.91,
-      "change_5d": -4.62,
-      "change_mtd": 1.6,
-      "date": "2026-11-04",
+      "open": 28078.19,
+      "close": 26629.81,
+      "high": 28078.19,
+      "low": 26606.43,
+      "change_pct": -6.36,
+      "change_5d": -9.43,
+      "change_mtd": -4.86,
+      "date": "2026-11-05",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7635.81,
-      "close": 7688.62,
-      "high": 7715.57,
-      "low": 7635.81,
-      "change_pct": 1.58,
-      "change_5d": -0.71,
-      "change_mtd": 1.95,
-      "date": "2026-11-04",
+      "open": 7678.72,
+      "close": 7353.73,
+      "high": 7681.29,
+      "low": 7350.35,
+      "change_pct": -4.36,
+      "change_5d": -4.75,
+      "change_mtd": -2.49,
+      "date": "2026-11-05",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52410.23,
-      "close": 53356.12,
-      "high": 53492.4,
-      "low": 52410.23,
-      "change_pct": 3.03,
-      "change_5d": 1.68,
-      "change_mtd": 2.64,
-      "date": "2026-11-04",
+      "open": 53679.01,
+      "close": 51523.06,
+      "high": 53710.61,
+      "low": 51486.82,
+      "change_pct": -3.44,
+      "change_5d": -1.57,
+      "change_mtd": -0.89,
+      "date": "2026-11-05",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Indian benchmarks near three-month highs as oil slides after US Democratic win - Reuters",
-      "summary": "Indian benchmarks near three-month highs as oil slides after US Democratic win  ",
+      "title": "Chip selloff drags global stocks lower on AI spending concerns - Reuters",
+      "summary": "Chip selloff drags global stocks lower on AI spending concerns  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Rupee to rally after US midterm fallout sinks oil on Iran war-exit hopes - Reuters",
-      "summary": "Rupee to rally after US midterm fallout sinks oil on Iran war-exit hopes  Reuter",
+      "title": "Wall Street rallies after Democrats win Congress; data center stocks slide - Reuters",
+      "summary": "Wall Street rallies after Democrats win Congress; data center stocks slide  Reut",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz - Reuters",
-      "summary": "Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz  Reuter",
+      "title": "Emirates profit plunges as Iran war rattles Middle East aviation - Reuters",
+      "summary": "Emirates profit plunges as Iran war rattles Middle East aviation  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
