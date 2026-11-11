@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T07:58:08",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T07:27:51",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 27263.43,
-      "close": 27907.63,
-      "high": 28025.77,
-      "low": 27227.53,
-      "change_pct": 3.4,
-      "change_5d": -0.29,
-      "change_mtd": -0.29,
-      "date": "2026-11-09",
+      "open": 27649.63,
+      "close": 27740.79,
+      "high": 27990.34,
+      "low": 27421.18,
+      "change_pct": -0.6,
+      "change_5d": -1.56,
+      "change_mtd": -0.89,
+      "date": "2026-11-10",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7422.24,
-      "close": 7549.94,
-      "high": 7577.39,
-      "low": 7422.24,
-      "change_pct": 2.35,
-      "change_5d": 0.11,
-      "change_mtd": 0.11,
-      "date": "2026-11-09",
+      "open": 7513.09,
+      "close": 7520.93,
+      "high": 7543.92,
+      "low": 7470.43,
+      "change_pct": -0.38,
+      "change_5d": -0.63,
+      "change_mtd": -0.27,
+      "date": "2026-11-10",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51643.01,
-      "close": 52389.75,
-      "high": 52574.34,
-      "low": 51643.01,
-      "change_pct": 2.15,
-      "change_5d": 0.78,
-      "change_mtd": 0.78,
-      "date": "2026-11-09",
+      "open": 52163.21,
+      "close": 52231.89,
+      "high": 52316.89,
+      "low": 51977.08,
+      "change_pct": -0.3,
+      "change_5d": 0.86,
+      "change_mtd": 0.48,
+      "date": "2026-11-10",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed - Reuters",
-      "summary": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready f",
+      "title": "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia scandal",
+      "summary": "The cliche is one of those smart-sounding rules of thumb that proves true just o",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Trump says Qatar, Saudi prefer peace in Iran conflict - Reuters",
-      "summary": "Trump says Qatar, Saudi prefer peace in Iran conflict  Reuters",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "summary": "Futures are down after a higher-than-expected consumer price index this morning ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Gulf markets retreat as traders await Trump's next move on Iran - Reuters",
-      "summary": "Gulf markets retreat as traders await Trump's next move on Iran  Reuters",
+      "title": "Stocks climb as oil prices dip heading into US CPI print - Reuters",
+      "summary": "Stocks climb as oil prices dip heading into US CPI print  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 3,
-    "decliners": 0,
-    "sentiment": "整体市场情绪偏积极。"
+    "advancers": 0,
+    "decliners": 3,
+    "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
     "Yahoo Finance",
