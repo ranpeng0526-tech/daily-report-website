@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T07:35:19",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T08:46:11",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 28265.54,
-      "close": 27943.74,
-      "high": 28295.8,
-      "low": 27609.71,
-      "change_pct": -1.22,
-      "change_5d": 3.53,
-      "change_mtd": -0.16,
-      "date": "2026-11-13",
+      "open": 27543.64,
+      "close": 27197.15,
+      "high": 27621.64,
+      "low": 27149.15,
+      "change_pct": -2.67,
+      "change_5d": -2.55,
+      "change_mtd": -2.83,
+      "date": "2026-11-16",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7616.85,
-      "close": 7561.67,
-      "high": 7621.78,
-      "low": 7499.4,
-      "change_pct": -0.4,
-      "change_5d": 2.51,
-      "change_mtd": 0.27,
-      "date": "2026-11-13",
+      "open": 7513.98,
+      "close": 7416.59,
+      "high": 7515.6,
+      "low": 7400.15,
+      "change_pct": -1.92,
+      "change_5d": -1.77,
+      "change_mtd": -1.65,
+      "date": "2026-11-16",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 52490.68,
-      "close": 52347.55,
-      "high": 52521.48,
-      "low": 52017.86,
-      "change_pct": 0.1,
-      "change_5d": 2.07,
-      "change_mtd": 0.7,
-      "date": "2026-11-13",
+      "open": 52267.06,
+      "close": 51608.17,
+      "high": 52324.0,
+      "low": 51511.56,
+      "change_pct": -1.41,
+      "change_5d": -1.49,
+      "change_mtd": -0.72,
+      "date": "2026-11-16",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally - Reuters",
-      "summary": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally  Reuters",
+      "title": "Shares slide on tech weakness ahead of Nvidia earnings - Reuters",
+      "summary": "Shares slide on tech weakness ahead of Nvidia earnings  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Rupee slips as higher oil prices and US yields knock stocks, bonds - Reuters",
-      "summary": "Rupee slips as higher oil prices and US yields knock stocks, bonds  Reuters",
+      "title": "Oman, Iran discuss safeguarding maritime corridors, as attacks in Hormuz increase - Reuters",
+      "summary": "Oman, Iran discuss safeguarding maritime corridors, as attacks in Hormuz increas",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Wall Street ends lower as Nvidia CEO resigns; US yields up - Reuters",
-      "summary": "Wall Street ends lower as Nvidia CEO resigns; US yields up  Reuters",
+      "title": "Celebrity style at the Governors Awards - Reuters",
+      "summary": "Celebrity style at the Governors Awards  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 1,
-    "decliners": 2,
+    "advancers": 0,
+    "decliners": 3,
     "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
