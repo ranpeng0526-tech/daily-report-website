@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T08:09:53",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T08:20:25",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 27229.95,
-      "close": 27001.78,
-      "high": 27258.84,
-      "low": 26580.86,
-      "change_pct": -0.72,
-      "change_5d": -2.66,
-      "change_mtd": -3.53,
-      "date": "2026-11-17",
+      "open": 27177.41,
+      "close": 27116.26,
+      "high": 27236.12,
+      "low": 26848.92,
+      "change_pct": 0.42,
+      "change_5d": -4.43,
+      "change_mtd": -3.12,
+      "date": "2026-11-18",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7411.02,
-      "close": 7340.53,
-      "high": 7415.37,
-      "low": 7288.34,
-      "change_pct": -1.03,
-      "change_5d": -2.4,
-      "change_mtd": -2.66,
-      "date": "2026-11-17",
+      "open": 7355.69,
+      "close": 7323.63,
+      "high": 7367.68,
+      "low": 7285.76,
+      "change_pct": -0.23,
+      "change_5d": -3.88,
+      "change_mtd": -2.89,
+      "date": "2026-11-18",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 51386.98,
-      "close": 50759.42,
-      "high": 51463.53,
-      "low": 50566.98,
-      "change_pct": -1.64,
-      "change_5d": -2.82,
-      "change_mtd": -2.36,
-      "date": "2026-11-17",
+      "open": 50627.36,
+      "close": 50198.17,
+      "high": 50637.7,
+      "low": 50029.35,
+      "change_pct": -1.11,
+      "change_5d": -4.36,
+      "change_mtd": -3.44,
+      "date": "2026-11-18",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "European shares fall as Deutsche Bank slides, tech stocks tumble ahead of Nvidia earnings - Reuters",
-      "summary": "European shares fall as Deutsche Bank slides, tech stocks tumble ahead of Nvidia",
+      "title": "Oil prices steady as Middle East shipping attacks counter supply surplus outlook - Reuters",
+      "summary": "Oil prices steady as Middle East shipping attacks counter supply surplus outlook",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "summary": "Nvidia is leading the Nasdaq and other AI stocks lower this morning.",
+      "title": "Ukraine was main topic at Trump-Putin meeting, Kremlin says - Reuters",
+      "summary": "Ukraine was main topic at Trump-Putin meeting, Kremlin says  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "'Big Short' investor Steve Eisman to discuss Nvidia, Anthropic and AI bull on CNBC",
-      "summary": "Steve Eisman is appearing on \"Squawk Box\" on Tuesday.",
+      "title": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters",
+      "summary": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead  R",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
+    "advancers": 1,
+    "decliners": 2,
     "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
