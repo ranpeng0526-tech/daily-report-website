@@ -1,71 +1,71 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T08:20:25",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T08:00:01",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 27177.41,
-      "close": 27116.26,
-      "high": 27236.12,
-      "low": 26848.92,
-      "change_pct": 0.42,
-      "change_5d": -4.43,
-      "change_mtd": -3.12,
-      "date": "2026-11-18",
+      "open": 27574.23,
+      "close": 26517.05,
+      "high": 27749.35,
+      "low": 26481.82,
+      "change_pct": -2.21,
+      "change_5d": -6.26,
+      "change_mtd": -5.26,
+      "date": "2026-11-19",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7355.69,
-      "close": 7323.63,
-      "high": 7367.68,
-      "low": 7285.76,
-      "change_pct": -0.23,
-      "change_5d": -3.88,
-      "change_mtd": -2.89,
-      "date": "2026-11-18",
+      "open": 7389.26,
+      "close": 7175.83,
+      "high": 7415.64,
+      "low": 7173.63,
+      "change_pct": -2.02,
+      "change_5d": -5.49,
+      "change_mtd": -4.85,
+      "date": "2026-11-19",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 50627.36,
-      "close": 50198.17,
-      "high": 50637.7,
-      "low": 50029.35,
-      "change_pct": -1.11,
-      "change_5d": -4.36,
-      "change_mtd": -3.44,
-      "date": "2026-11-18",
+      "open": 50432.32,
+      "close": 49097.06,
+      "high": 50454.81,
+      "low": 49091.92,
+      "change_pct": -2.19,
+      "change_5d": -6.12,
+      "change_mtd": -5.55,
+      "date": "2026-11-19",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Oil prices steady as Middle East shipping attacks counter supply surplus outlook - Reuters",
-      "summary": "Oil prices steady as Middle East shipping attacks counter supply surplus outlook",
+      "title": "Nvidia's earnings report had something for the bulls, bears and everyone in between",
+      "summary": "Nvidia's commentary on its buyback and AI ecosystem support was encouraging. But",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Ukraine was main topic at Trump-Putin meeting, Kremlin says - Reuters",
-      "summary": "Ukraine was main topic at Trump-Putin meeting, Kremlin says  Reuters",
+      "title": "Read Jim Cramer’s full interview with Nvidia’s Colette Kress: Demand, buybacks and China",
+      "summary": "Interim CEO Kress sat down with CNBC’s Jim Cramer Tuesday evening shortly after ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters",
-      "summary": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead  R",
+      "title": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
+      "summary": "The Anthropic IPO and a flood of AI wealth are spurring the creation of new fami",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 1,
-    "decliners": 2,
+    "advancers": 0,
+    "decliners": 3,
     "sentiment": "整体市场情绪偏谨慎。"
   },
   "sources": [
