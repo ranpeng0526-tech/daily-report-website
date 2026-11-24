@@ -1,72 +1,72 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T08:32:21",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T10:38:39",
   "indices": [
     {
       "name": "纳斯达克100",
       "ticker": "^NDX",
-      "open": 26184.76,
-      "close": 25028.98,
-      "high": 26429.09,
-      "low": 24910.48,
-      "change_pct": -5.61,
-      "change_5d": -10.43,
-      "change_mtd": -10.58,
-      "date": "2026-11-20",
+      "open": 26889.29,
+      "close": 26746.1,
+      "high": 27018.88,
+      "low": 26386.42,
+      "change_pct": 6.86,
+      "change_5d": -1.66,
+      "change_mtd": -4.44,
+      "date": "2026-11-23",
       "error": ""
     },
     {
       "name": "标普500",
       "ticker": "^GSPC",
-      "open": 7150.39,
-      "close": 6910.39,
-      "high": 7198.67,
-      "low": 6882.66,
-      "change_pct": -3.7,
-      "change_5d": -8.61,
-      "change_mtd": -8.37,
-      "date": "2026-11-20",
+      "open": 7227.41,
+      "close": 7237.17,
+      "high": 7295.6,
+      "low": 7152.66,
+      "change_pct": 4.73,
+      "change_5d": -2.42,
+      "change_mtd": -4.03,
+      "date": "2026-11-23",
       "error": ""
     },
     {
       "name": "道琼斯工业指数",
       "ticker": "^DJI",
-      "open": 49071.82,
-      "close": 48147.33,
-      "high": 49594.9,
-      "low": 47998.86,
-      "change_pct": -1.93,
-      "change_5d": -8.02,
-      "change_mtd": -7.38,
-      "date": "2026-11-20",
+      "open": 49239.91,
+      "close": 49595.31,
+      "high": 49810.26,
+      "low": 49033.31,
+      "change_pct": 3.01,
+      "change_5d": -3.9,
+      "change_mtd": -4.6,
+      "date": "2026-11-23",
       "error": ""
     }
   ],
   "top_news": [
     {
-      "title": "Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks",
-      "summary": "Bitcoin’s selloff is tracking risk assets again as experts weigh rates, ETF flow",
+      "title": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate - Reuters",
+      "summary": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate  ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "S&P 500 correction: Five forces behind the market sell-off",
-      "summary": "The S&P 500 and Dow Jones Industrial Average closed in correction territory, off",
+      "title": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports - Reuters",
+      "summary": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WS",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues - Reuters",
-      "summary": "US Treasury sanctions Iranian 'trustees' collecting oil revenues  Reuters",
+      "title": "Oil prices near three-month lows as rising supply offsets Hormuz threat - Reuters",
+      "summary": "Oil prices near three-month lows as rising supply offsets Hormuz threat  Reuters",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
   ],
   "market_overview": {
-    "advancers": 0,
-    "decliners": 3,
-    "sentiment": "整体市场情绪偏谨慎。"
+    "advancers": 3,
+    "decliners": 0,
+    "sentiment": "整体市场情绪偏积极。"
   },
   "sources": [
     "Yahoo Finance",
