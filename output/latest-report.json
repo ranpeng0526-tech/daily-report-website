@@ -1,7 +1,7 @@
 {
   "title": "每日美股市场晨报",
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T09:07:38",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T09:23:12",
   "indices": [
     {
       "name": "纳斯达克100",
@@ -45,20 +45,20 @@
   ],
   "top_news": [
     {
-      "title": "Musk says every child in the US will get two SpaceX shares - Reuters",
-      "summary": "Musk says every child in the US will get two SpaceX shares  Reuters",
+      "title": "Iran warns on Gulf military presence as South Korea readies expanded naval role - Reuters",
+      "summary": "Iran warns on Gulf military presence as South Korea readies expanded naval role ",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-      "summary": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it f",
+      "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered - Reuters",
+      "summary": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovere",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     },
     {
-      "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war - Reuters",
-      "summary": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war  Reuter",
+      "title": "EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say - Reuters",
+      "summary": "EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say  Reut",
       "impact": "未知",
       "reason": "AI 分析暂不可用，请手动运行"
     }
